@@ -1,0 +1,5322 @@
+[
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV02\\VIVOSDEV02_R106.wav",
+    "text": "Ở Ê Ụ ĐỘ",
+    "speaker_id": "VIVOSDEV02",
+    "split": "test",
+    "duration": 2.625
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV02\\VIVOSDEV02_R122.wav",
+    "text": "Ũ IẾ O Ọ È Ặ",
+    "speaker_id": "VIVOSDEV02",
+    "split": "test",
+    "duration": 2.5625
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV02\\VIVOSDEV02_R130.wav",
+    "text": "Ị Ặ ỎI A Ề Ố Ề Ế À Ô Ó",
+    "speaker_id": "VIVOSDEV02",
+    "split": "test",
+    "duration": 4.40625
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV02\\VIVOSDEV02_R132.wav",
+    "text": "ĐIỆ OẠI E Ư A Ũ ẢI Ấ ÁY ĐÚ Ô",
+    "speaker_id": "VIVOSDEV02",
+    "split": "test",
+    "duration": 3.875
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV02\\VIVOSDEV02_R135.wav",
+    "text": "Ũ UỘ OẠI ÀY ĐẶ Ấ O Ệ Ặ ỜI",
+    "speaker_id": "VIVOSDEV02",
+    "split": "test",
+    "duration": 3.71875
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV02\\VIVOSDEV02_R137.wav",
+    "text": "Á Ụ A Ũ À Ê ỐI I Ế",
+    "speaker_id": "VIVOSDEV02",
+    "split": "test",
+    "duration": 3.5625
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV02\\VIVOSDEV02_R149.wav",
+    "text": "Ú Ứ Ố ÙI ẠI Ặ Ù ƯỚ ÍU Ô IỀ",
+    "speaker_id": "VIVOSDEV02",
+    "split": "test",
+    "duration": 4.75
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV02\\VIVOSDEV02_R154.wav",
+    "text": "Ọ UÔ Ự Á ẠY Ọ ÀY A Á Ự Á ĐỂ IẾ Á",
+    "speaker_id": "VIVOSDEV02",
+    "split": "test",
+    "duration": 5.1875
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV02\\VIVOSDEV02_R015.wav",
+    "text": "Ấ Ả ỌI Ứ ĐỀU Ỳ Ạ Ộ Á I ƯỜ",
+    "speaker_id": "VIVOSDEV02",
+    "split": "test",
+    "duration": 3.375
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV02\\VIVOSDEV02_R164.wav",
+    "text": "Á ƯƠ Ì A Ạ Ầ Ớ ĐỀU Ô ĐỘ Á",
+    "speaker_id": "VIVOSDEV02",
+    "split": "test",
+    "duration": 3.65625
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV02\\VIVOSDEV02_R170.wav",
+    "text": "ỒI ẠY A Õ ỬA Ò A E AI Ấ ÚI",
+    "speaker_id": "VIVOSDEV02",
+    "split": "test",
+    "duration": 4.9375
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV02\\VIVOSDEV02_R173.wav",
+    "text": "ĐỂ Ả Ở ẠI ĐẠI ƯƠ",
+    "speaker_id": "VIVOSDEV02",
+    "split": "test",
+    "duration": 3.21875
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV02\\VIVOSDEV02_R181.wav",
+    "text": "À Ó ĐÔI Ắ O ÂU À Ầ Á Ộ Ê Ô",
+    "speaker_id": "VIVOSDEV02",
+    "split": "test",
+    "duration": 4.125
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV02\\VIVOSDEV02_R192.wav",
+    "text": "ÔI Ự ỎI ẢI Ă ĐÓ À O A Ò UÁ Ẻ",
+    "speaker_id": "VIVOSDEV02",
+    "split": "test",
+    "duration": 4.9375
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV02\\VIVOSDEV02_R195.wav",
+    "text": "ỦY A ÂU ÂU ÊU ỌI Ữ UỐ IA Á IỂ Ò ẠI",
+    "speaker_id": "VIVOSDEV02",
+    "split": "test",
+    "duration": 4.0625
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV02\\VIVOSDEV02_R200.wav",
+    "text": "À I Ú A AO Ã Ô IỆ ỦA Ì",
+    "speaker_id": "VIVOSDEV02",
+    "split": "test",
+    "duration": 3.34375
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV02\\VIVOSDEV02_R027.wav",
+    "text": "Ó Ể À Ặ À Ô ĐỂ ẠI Ế ẸO",
+    "speaker_id": "VIVOSDEV02",
+    "split": "test",
+    "duration": 3.40625
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV02\\VIVOSDEV02_R031.wav",
+    "text": "UỐ ĐẸ ẢI È À AO O Á Ó Ơ Â ỔI Ậ Ê",
+    "speaker_id": "VIVOSDEV02",
+    "split": "test",
+    "duration": 5.375
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV02\\VIVOSDEV02_R032.wav",
+    "text": "Y Ế Ì Ư ÒA Ị Ư Ỏ",
+    "speaker_id": "VIVOSDEV02",
+    "split": "test",
+    "duration": 3.4375
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV02\\VIVOSDEV02_R045.wav",
+    "text": "Ô Ứ È AY ÁI Ọ Á Ê",
+    "speaker_id": "VIVOSDEV02",
+    "split": "test",
+    "duration": 3.625
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV02\\VIVOSDEV02_R005.wav",
+    "text": "ẾU ƯỞ ƯỢ ẢY Á Ă ỮA",
+    "speaker_id": "VIVOSDEV02",
+    "split": "test",
+    "duration": 2.625
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV02\\VIVOSDEV02_R067.wav",
+    "text": "Ô Ủ Ị UYÊ Ố Ư Ế ÀO",
+    "speaker_id": "VIVOSDEV02",
+    "split": "test",
+    "duration": 3.9375
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV02\\VIVOSDEV02_R068.wav",
+    "text": "IẾ AI A O ẬU",
+    "speaker_id": "VIVOSDEV02",
+    "split": "test",
+    "duration": 3.0625
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV02\\VIVOSDEV02_R069.wav",
+    "text": "À ĐẸ Ô ĐÚ Á",
+    "speaker_id": "VIVOSDEV02",
+    "split": "test",
+    "duration": 2.5
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV02\\VIVOSDEV02_R071.wav",
+    "text": "ỖI I E Á ĐI A UA ĐÁ Ẻ ỚI ĐE A ĐỔ",
+    "speaker_id": "VIVOSDEV02",
+    "split": "test",
+    "duration": 4.9375
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV02\\VIVOSDEV02_R076.wav",
+    "text": "AY Ì Ố IỜ Ư ƯỚ ĐÂY",
+    "speaker_id": "VIVOSDEV02",
+    "split": "test",
+    "duration": 2.96875
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV02\\VIVOSDEV02_R079.wav",
+    "text": "ẦU Ế A ÀY Ó UỒ Ố Ừ Â Ơ Â Ỗ",
+    "speaker_id": "VIVOSDEV02",
+    "split": "test",
+    "duration": 4.03125
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV02\\VIVOSDEV02_R087.wav",
+    "text": "IẾ Ã ẤU Ắ Ạ Ạ AU À Ả IẾ Ê Ỉ",
+    "speaker_id": "VIVOSDEV02",
+    "split": "test",
+    "duration": 4.6875
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV02\\VIVOSDEV02_R089.wav",
+    "text": "Ó Ẳ Ộ OẠ ÀI IẾ UYÊ ĐỀ Ề UẢ Ị ƯƠ IỆU",
+    "speaker_id": "VIVOSDEV02",
+    "split": "test",
+    "duration": 4.75
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV02\\VIVOSDEV02_R091.wav",
+    "text": "Ợ ỚI ƯƠ Ị ĐẦU UÂ",
+    "speaker_id": "VIVOSDEV02",
+    "split": "test",
+    "duration": 3.0
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV02\\VIVOSDEV02_R099.wav",
+    "text": "Ổ ÓI Ở ÀI Ò Ổ ĐÃ À Ô ỘI ĐỒ Ư Ế ÀO",
+    "speaker_id": "VIVOSDEV02",
+    "split": "test",
+    "duration": 5.0625
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV02\\VIVOSDEV02_R009.wav",
+    "text": "À UẢ Ẫ ĐA Ậ Ộ",
+    "speaker_id": "VIVOSDEV02",
+    "split": "test",
+    "duration": 3.34375
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV02\\VIVOSDEV02_T012.wav",
+    "text": "ÀY Á ƠI Ợ AO AO ẢI IẾ ÀY",
+    "speaker_id": "VIVOSDEV02",
+    "split": "test",
+    "duration": 3.375
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV02\\VIVOSDEV02_T013.wav",
+    "text": "Ố Ổ Ắ ĐI Ô ĐƯỢ ĐỂ Ắ ÀO ĐÂY ỮA",
+    "speaker_id": "VIVOSDEV02",
+    "split": "test",
+    "duration": 3.6875
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV02\\VIVOSDEV02_T015.wav",
+    "text": "Ắ ƠI Ợ A Ì AO A Ô ƠI Ợ Ắ",
+    "speaker_id": "VIVOSDEV02",
+    "split": "test",
+    "duration": 3.375
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV02\\VIVOSDEV02_T022.wav",
+    "text": "Á ƯỚ Ồ Ề ẤY ÀY Ì Ằ Ủ ẤY Ấ I Ủ",
+    "speaker_id": "VIVOSDEV02",
+    "split": "test",
+    "duration": 4.25
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV02\\VIVOSDEV02_T031.wav",
+    "text": "O E Ó Ộ IÊ Ạ",
+    "speaker_id": "VIVOSDEV02",
+    "split": "test",
+    "duration": 2.25
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV02\\VIVOSDEV02_T043.wav",
+    "text": "ĐI IỂ A ẠI Á Ĩ UYÊ Ê Ổ ỘI OI",
+    "speaker_id": "VIVOSDEV02",
+    "split": "test",
+    "duration": 3.78125
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV02\\VIVOSDEV02_T004.wav",
+    "text": "Ô AY E Ó ỚI Ă Á",
+    "speaker_id": "VIVOSDEV02",
+    "split": "test",
+    "duration": 2.9375
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV02\\VIVOSDEV02_T050.wav",
+    "text": "A Ị ĐẨY Ừ À ỘI ÀO ÀI Ò",
+    "speaker_id": "VIVOSDEV02",
+    "split": "test",
+    "duration": 3.3125
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV03\\VIVOSDEV03_R109.wav",
+    "text": "Ù Ợ O ỌI Â Ặ",
+    "speaker_id": "VIVOSDEV03",
+    "split": "test",
+    "duration": 1.65625
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV03\\VIVOSDEV03_R010.wav",
+    "text": "Â Ầ Ắ IU UÔI ÔI Ô Ớ",
+    "speaker_id": "VIVOSDEV03",
+    "split": "test",
+    "duration": 2.6875
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV03\\VIVOSDEV03_R113.wav",
+    "text": "Ì Ạ Ó Ể ẢY Ò Ừ Á Ộ",
+    "speaker_id": "VIVOSDEV03",
+    "split": "test",
+    "duration": 2.625
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV03\\VIVOSDEV03_R117.wav",
+    "text": "AI Ò ỦA Ế ĐỘ I ƯỠ",
+    "speaker_id": "VIVOSDEV03",
+    "split": "test",
+    "duration": 1.78125
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV03\\VIVOSDEV03_R119.wav",
+    "text": "Ô IỂU AO",
+    "speaker_id": "VIVOSDEV03",
+    "split": "test",
+    "duration": 1.40625
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV03\\VIVOSDEV03_R120.wav",
+    "text": "IẾ Ụ UY IỂU Ầ",
+    "speaker_id": "VIVOSDEV03",
+    "split": "test",
+    "duration": 2.0625
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV03\\VIVOSDEV03_R125.wav",
+    "text": "ỖI I Ơ IÓ ĐẾ",
+    "speaker_id": "VIVOSDEV03",
+    "split": "test",
+    "duration": 1.84375
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV03\\VIVOSDEV03_R136.wav",
+    "text": "ÀY Ó O O ƯƠ ĐỠ YẾU ĐAU ÒI Ọ",
+    "speaker_id": "VIVOSDEV03",
+    "split": "test",
+    "duration": 3.4375
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV03\\VIVOSDEV03_R142.wav",
+    "text": "O Ư Ế I ỰA Ồ Ê",
+    "speaker_id": "VIVOSDEV03",
+    "split": "test",
+    "duration": 2.5
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV03\\VIVOSDEV03_R144.wav",
+    "text": "À Ũ ĐẦY A IẾ",
+    "speaker_id": "VIVOSDEV03",
+    "split": "test",
+    "duration": 1.625
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV03\\VIVOSDEV03_R148.wav",
+    "text": "Ộ Ụ Ậ ĐIỆ ĐÃ IẾ Ọ ỬA Ù Ê",
+    "speaker_id": "VIVOSDEV03",
+    "split": "test",
+    "duration": 3.0
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV03\\VIVOSDEV03_R149.wav",
+    "text": "À O Ò Ó",
+    "speaker_id": "VIVOSDEV03",
+    "split": "test",
+    "duration": 1.5625
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV03\\VIVOSDEV03_R156.wav",
+    "text": "ĐÂY À Ứ ÃI UẤ Ấ Ấ UA Á IÊ ĐẤU ẦU",
+    "speaker_id": "VIVOSDEV03",
+    "split": "test",
+    "duration": 2.875
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV03\\VIVOSDEV03_R160.wav",
+    "text": "Ọ AI Ê Ô À ÂU",
+    "speaker_id": "VIVOSDEV03",
+    "split": "test",
+    "duration": 2.15625
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV03\\VIVOSDEV03_R163.wav",
+    "text": "Ư OÁI Ă AY",
+    "speaker_id": "VIVOSDEV03",
+    "split": "test",
+    "duration": 1.625
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV03\\VIVOSDEV03_R180.wav",
+    "text": "AU ẢI Á",
+    "speaker_id": "VIVOSDEV03",
+    "split": "test",
+    "duration": 1.5625
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV03\\VIVOSDEV03_R182.wav",
+    "text": "Ộ Ế OẠ ƯƠ Ự ĐƯỢ Á Ụ Ở A",
+    "speaker_id": "VIVOSDEV03",
+    "split": "test",
+    "duration": 2.75
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV03\\VIVOSDEV03_R191.wav",
+    "text": "ỠI ỰA ĐI I",
+    "speaker_id": "VIVOSDEV03",
+    "split": "test",
+    "duration": 1.6875
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV03\\VIVOSDEV03_R193.wav",
+    "text": "ÔI ÀO",
+    "speaker_id": "VIVOSDEV03",
+    "split": "test",
+    "duration": 1.4375
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV03\\VIVOSDEV03_R195.wav",
+    "text": "Ô Ộ IẾ E Ạ ÀO Ó Ể O E ÀO ĐƯỢ",
+    "speaker_id": "VIVOSDEV03",
+    "split": "test",
+    "duration": 3.0625
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV03\\VIVOSDEV03_R198.wav",
+    "text": "ỒI ĐI Ắ ƠI Ì ẦY ỮA Ệ O A",
+    "speaker_id": "VIVOSDEV03",
+    "split": "test",
+    "duration": 2.5625
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV03\\VIVOSDEV03_R020.wav",
+    "text": "Ê O ÁI Ả I Ổ A Ẽ Ỗ Ứ Ô ĐẶ Ư ÁI U",
+    "speaker_id": "VIVOSDEV03",
+    "split": "test",
+    "duration": 4.625
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV03\\VIVOSDEV03_R029.wav",
+    "text": "Ê AI Ố ẦU Ị Ụ ĐẤ IẾ ỐI ĐI Ộ UÁ UY IỂ",
+    "speaker_id": "VIVOSDEV03",
+    "split": "test",
+    "duration": 4.6875
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV03\\VIVOSDEV03_R041.wav",
+    "text": "UÔ Ổ ĐỊ À Á E ẤU Á Ặ",
+    "speaker_id": "VIVOSDEV03",
+    "split": "test",
+    "duration": 2.9375
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV03\\VIVOSDEV03_R044.wav",
+    "text": "À I Ọ Ạ Ó A",
+    "speaker_id": "VIVOSDEV03",
+    "split": "test",
+    "duration": 2.9375
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV03\\VIVOSDEV03_R046.wav",
+    "text": "ỦA Í Á ĐỐI ỚI UY Ô ỦA Ị ƯỜ",
+    "speaker_id": "VIVOSDEV03",
+    "split": "test",
+    "duration": 2.9375
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV03\\VIVOSDEV03_R056.wav",
+    "text": "ƯƠ Ù ĐÃ ĐỌ À Ữ Ạ IÁ Ă",
+    "speaker_id": "VIVOSDEV03",
+    "split": "test",
+    "duration": 2.625
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV03\\VIVOSDEV03_R057.wav",
+    "text": "Ứ Ô ẢI ÀI Ă IÊ Ẩ ÀO",
+    "speaker_id": "VIVOSDEV03",
+    "split": "test",
+    "duration": 2.28125
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV03\\VIVOSDEV03_R061.wav",
+    "text": "À IẾ Ố Â Ù È UI AI",
+    "speaker_id": "VIVOSDEV03",
+    "split": "test",
+    "duration": 2.5625
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV03\\VIVOSDEV03_R007.wav",
+    "text": "Ộ UYẾ U Ị Ã OẠI ẠI Ò Ạ À",
+    "speaker_id": "VIVOSDEV03",
+    "split": "test",
+    "duration": 3.125
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV03\\VIVOSDEV03_R082.wav",
+    "text": "É À AI IẢO ÀO Â Ổ Ụ O OA Á Ớ",
+    "speaker_id": "VIVOSDEV03",
+    "split": "test",
+    "duration": 3.9375
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV03\\VIVOSDEV03_R092.wav",
+    "text": "ĐỂ Ọ ÁY I O Ù Ợ",
+    "speaker_id": "VIVOSDEV03",
+    "split": "test",
+    "duration": 2.5
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV03\\VIVOSDEV03_T017.wav",
+    "text": "Á Ẫ ƯA Ả IỀ O ÔI ĐÂY É",
+    "speaker_id": "VIVOSDEV03",
+    "split": "test",
+    "duration": 2.40625
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV03\\VIVOSDEV03_T018.wav",
+    "text": "ÔI ĐA Ậ Ọ",
+    "speaker_id": "VIVOSDEV03",
+    "split": "test",
+    "duration": 1.75
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV03\\VIVOSDEV03_T023.wav",
+    "text": "ƯỚ ĐẦY ĐƯỜ Ô A Ỉ O Ạ Á",
+    "speaker_id": "VIVOSDEV03",
+    "split": "test",
+    "duration": 2.8125
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV03\\VIVOSDEV03_T035.wav",
+    "text": "Ẹ ƠI Ó UA ĐỒ O O Ô",
+    "speaker_id": "VIVOSDEV03",
+    "split": "test",
+    "duration": 2.3125
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV03\\VIVOSDEV03_T041.wav",
+    "text": "O Ó ỦI ỦI ĐI EO Ủ Ó",
+    "speaker_id": "VIVOSDEV03",
+    "split": "test",
+    "duration": 2.53125
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV03\\VIVOSDEV03_T047.wav",
+    "text": "O I Ó IỀU Ả É IẾ",
+    "speaker_id": "VIVOSDEV03",
+    "split": "test",
+    "duration": 2.28125
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV03\\VIVOSDEV03_T048.wav",
+    "text": "IỄ IÊ Í ĐỨ Ư Ú Ỗ",
+    "speaker_id": "VIVOSDEV03",
+    "split": "test",
+    "duration": 2.25
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV03\\VIVOSDEV03_T009.wav",
+    "text": "Á ĐA UY Ĩ Ì Ế",
+    "speaker_id": "VIVOSDEV03",
+    "split": "test",
+    "duration": 1.90625
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV01\\VIVOSDEV01_R108.wav",
+    "text": "I Ẫ ỎI Ệ Ì Ẽ É ĐẦU",
+    "speaker_id": "VIVOSDEV01",
+    "split": "test",
+    "duration": 3.4375
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV01\\VIVOSDEV01_R117.wav",
+    "text": "IỆ Ộ UYỂ IỂU UYẾ Ư Ế",
+    "speaker_id": "VIVOSDEV01",
+    "split": "test",
+    "duration": 2.75
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV01\\VIVOSDEV01_R012.wav",
+    "text": "Ữ Ơ IÓ Ạ À ƯA ĐÓ Ă ÂY Ơ Ợ",
+    "speaker_id": "VIVOSDEV01",
+    "split": "test",
+    "duration": 4.1875
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV01\\VIVOSDEV01_R130.wav",
+    "text": "ÃO Ộ Ú A Á IỂ Ữ U ĐỘ YÊU ƯƠ",
+    "speaker_id": "VIVOSDEV01",
+    "split": "test",
+    "duration": 3.71875
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV01\\VIVOSDEV01_R139.wav",
+    "text": "Ừ I Ạ IẾ Ô Ọ Ả Â Ì",
+    "speaker_id": "VIVOSDEV01",
+    "split": "test",
+    "duration": 3.1875
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV01\\VIVOSDEV01_R141.wav",
+    "text": "Ữ O ĐƯỜ Ắ Ủ Ư Ữ Á Ắ",
+    "speaker_id": "VIVOSDEV01",
+    "split": "test",
+    "duration": 3.28125
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV01\\VIVOSDEV01_R146.wav",
+    "text": "IỆ A Ậ ÍA A",
+    "speaker_id": "VIVOSDEV01",
+    "split": "test",
+    "duration": 2.03125
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV01\\VIVOSDEV01_R150.wav",
+    "text": "I ĐƯỢ Â UÂ Á",
+    "speaker_id": "VIVOSDEV01",
+    "split": "test",
+    "duration": 2.0625
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV01\\VIVOSDEV01_R151.wav",
+    "text": "Ư I IẾ Ầ ÀO Ị Ì Ặ IỂ Ị Ạ Ỡ",
+    "speaker_id": "VIVOSDEV01",
+    "split": "test",
+    "duration": 3.65625
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV01\\VIVOSDEV01_R164.wav",
+    "text": "Ộ À OẠI IẶ ĐỒ UÊ",
+    "speaker_id": "VIVOSDEV01",
+    "split": "test",
+    "duration": 2.5
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV01\\VIVOSDEV01_R170.wav",
+    "text": "ĐÔI À AY E Ô ĐƯỢ Ề ẠI À Õ À",
+    "speaker_id": "VIVOSDEV01",
+    "split": "test",
+    "duration": 3.28125
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV01\\VIVOSDEV01_R172.wav",
+    "text": "ÂY IA Ẫ Ò Ắ OẢI Ô Ể ÀO Ã A Ô",
+    "speaker_id": "VIVOSDEV01",
+    "split": "test",
+    "duration": 3.71875
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV01\\VIVOSDEV01_R174.wav",
+    "text": "Ữ Ự ĐỊ Ầ ẢI ĐƯỢ IẾ À IỆ Ự",
+    "speaker_id": "VIVOSDEV01",
+    "split": "test",
+    "duration": 3.125
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV01\\VIVOSDEV01_R176.wav",
+    "text": "ĐỂ ÀU Ô ẢI ƯỠI ẦU ÀU",
+    "speaker_id": "VIVOSDEV01",
+    "split": "test",
+    "duration": 3.4375
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV01\\VIVOSDEV01_R180.wav",
+    "text": "À ỔI Ơ Ằ Ô Ề Ấ Ổ IẾ",
+    "speaker_id": "VIVOSDEV01",
+    "split": "test",
+    "duration": 3.9375
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV01\\VIVOSDEV01_R187.wav",
+    "text": "Ậ Ự À À ỞI Ò Ậ Ù",
+    "speaker_id": "VIVOSDEV01",
+    "split": "test",
+    "duration": 2.75
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV01\\VIVOSDEV01_R188.wav",
+    "text": "IỆ UY ỘI ĐỂ Ù Ổ OẠI Á ÀY À O",
+    "speaker_id": "VIVOSDEV01",
+    "split": "test",
+    "duration": 3.4375
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV01\\VIVOSDEV01_R027.wav",
+    "text": "I Í Ó ẢY Ỗ Ô À AI Ỗ À ĐƯỢ À Ằ Ỗ Í",
+    "speaker_id": "VIVOSDEV01",
+    "split": "test",
+    "duration": 4.71875
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV01\\VIVOSDEV01_R028.wav",
+    "text": "Á Ú Ũ OẢI ÁI Ó UẾ IỮA Ố ĐÔ ƯỜI À Ô Ợ",
+    "speaker_id": "VIVOSDEV01",
+    "split": "test",
+    "duration": 4.5625
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV01\\VIVOSDEV01_R002.wav",
+    "text": "IẾ Ọ Ạ Ự ẠI ỦA Ữ Ớ Ắ",
+    "speaker_id": "VIVOSDEV01",
+    "split": "test",
+    "duration": 4.0625
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV01\\VIVOSDEV01_R034.wav",
+    "text": "ƯỜI A ÓI",
+    "speaker_id": "VIVOSDEV01",
+    "split": "test",
+    "duration": 1.9375
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV01\\VIVOSDEV01_R003.wav",
+    "text": "Ũ Ê IẾ Ủ Ộ Á IẾ Ị ÀY",
+    "speaker_id": "VIVOSDEV01",
+    "split": "test",
+    "duration": 3.6875
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV01\\VIVOSDEV01_R043.wav",
+    "text": "A Ú ƯA Ú ĐƯỢ ỮA Ẹ Ầ ÀO",
+    "speaker_id": "VIVOSDEV01",
+    "split": "test",
+    "duration": 3.375
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV01\\VIVOSDEV01_R044.wav",
+    "text": "Ọ ỬA ẠO ĐỘ Ở U ĐÔ À Á Ỡ Ộ Ì ÒA Ì",
+    "speaker_id": "VIVOSDEV01",
+    "split": "test",
+    "duration": 5.21875
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV01\\VIVOSDEV01_R055.wav",
+    "text": "À Ấ Á ẠO",
+    "speaker_id": "VIVOSDEV01",
+    "split": "test",
+    "duration": 2.59375
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV01\\VIVOSDEV01_R057.wav",
+    "text": "Ư IẤ Ủ Ậ Ờ",
+    "speaker_id": "VIVOSDEV01",
+    "split": "test",
+    "duration": 2.9375
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV01\\VIVOSDEV01_R058.wav",
+    "text": "IÁ ĐỐ Ở IÁO Ụ ĐÀO ẠO I UẬ O IẾ",
+    "speaker_id": "VIVOSDEV01",
+    "split": "test",
+    "duration": 3.78125
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV01\\VIVOSDEV01_R069.wav",
+    "text": "ĐÈ Ị Ư ỒI A",
+    "speaker_id": "VIVOSDEV01",
+    "split": "test",
+    "duration": 2.1875
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV01\\VIVOSDEV01_R071.wav",
+    "text": "ƯỞ Ô A Ã ẠY A A Ă Ũ Ị UYẾ ĐÁ IẾ",
+    "speaker_id": "VIVOSDEV01",
+    "split": "test",
+    "duration": 4.5625
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV01\\VIVOSDEV01_R078.wav",
+    "text": "E Ú ÔI ỎI ĐIỀU ÀY Ị Á Â Ấ ƯỚ Ắ",
+    "speaker_id": "VIVOSDEV01",
+    "split": "test",
+    "duration": 3.75
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV01\\VIVOSDEV01_R086.wav",
+    "text": "Ô Ă ĐỀ Ị Ỉ O U ÂY Ự ỬA ẨU",
+    "speaker_id": "VIVOSDEV01",
+    "split": "test",
+    "duration": 4.125
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV01\\VIVOSDEV01_R089.wav",
+    "text": "Ư Ì YÊU Ẫ Ồ À À AY ĐẮ Ư UỔI A ĐẦU",
+    "speaker_id": "VIVOSDEV01",
+    "split": "test",
+    "duration": 4.0625
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV01\\VIVOSDEV01_R092.wav",
+    "text": "O Í Ủ Ỹ IẾ À Ở IỆ A",
+    "speaker_id": "VIVOSDEV01",
+    "split": "test",
+    "duration": 3.03125
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV01\\VIVOSDEV01_R098.wav",
+    "text": "Ỉ UẢ Ị ĐÃ Ê UYỆ",
+    "speaker_id": "VIVOSDEV01",
+    "split": "test",
+    "duration": 2.875
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV01\\VIVOSDEV01_R099.wav",
+    "text": "Ư ÔI Í E Ộ I UYỆ Á AY AU ƯƠ Ì ÀY",
+    "speaker_id": "VIVOSDEV01",
+    "split": "test",
+    "duration": 3.875
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV01\\VIVOSDEV01_T002.wav",
+    "text": "Ũ ƯA IẾ ỮA",
+    "speaker_id": "VIVOSDEV01",
+    "split": "test",
+    "duration": 1.96875
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV01\\VIVOSDEV01_T030.wav",
+    "text": "UÂ ÀY E Ô Ề",
+    "speaker_id": "VIVOSDEV01",
+    "split": "test",
+    "duration": 1.9375
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV01\\VIVOSDEV01_T038.wav",
+    "text": "Ắ Ắ ỚI U Ế ĐI U Ị ÔI",
+    "speaker_id": "VIVOSDEV01",
+    "split": "test",
+    "duration": 2.5
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV01\\VIVOSDEV01_T043.wav",
+    "text": "Ó Ố Ấ IÊU ỒI Ò ĐÂU",
+    "speaker_id": "VIVOSDEV01",
+    "split": "test",
+    "duration": 2.4375
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV01\\VIVOSDEV01_T048.wav",
+    "text": "Ằ ĐÓ Ó ÁI IỆ Ư ĐÀ À",
+    "speaker_id": "VIVOSDEV01",
+    "split": "test",
+    "duration": 2.375
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV04\\VIVOSDEV04_R100.wav",
+    "text": "À ÓI",
+    "speaker_id": "VIVOSDEV04",
+    "split": "test",
+    "duration": 1.375
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV04\\VIVOSDEV04_R010.wav",
+    "text": "O Ỏ Ở ÁI ÚI Ú ĐEO Ê Ổ",
+    "speaker_id": "VIVOSDEV04",
+    "split": "test",
+    "duration": 3.75
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV04\\VIVOSDEV04_R114.wav",
+    "text": "Ũ Ẳ Ò Ú Í UẦ ÁO ỚI",
+    "speaker_id": "VIVOSDEV04",
+    "split": "test",
+    "duration": 2.8125
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV04\\VIVOSDEV04_R118.wav",
+    "text": "Ẻ E ĐÂU Ó ƯỚ ẠI Ậ",
+    "speaker_id": "VIVOSDEV04",
+    "split": "test",
+    "duration": 2.40625
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV04\\VIVOSDEV04_R126.wav",
+    "text": "ÔI Ô Ỡ À Ô É Ấ Ọ",
+    "speaker_id": "VIVOSDEV04",
+    "split": "test",
+    "duration": 2.40625
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV04\\VIVOSDEV04_R127.wav",
+    "text": "Ấ IỀU ỬI Ắ À Ỳ Ọ ÀO Ô",
+    "speaker_id": "VIVOSDEV04",
+    "split": "test",
+    "duration": 3.46875
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV04\\VIVOSDEV04_R129.wav",
+    "text": "ĐA ẢO UẬ Ề ĐỀ UẤ",
+    "speaker_id": "VIVOSDEV04",
+    "split": "test",
+    "duration": 2.1875
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV04\\VIVOSDEV04_R132.wav",
+    "text": "Ủ Ị ƯỚ ĐÃ ĐẾ IỂ A IẾ ĐỘ I Ô",
+    "speaker_id": "VIVOSDEV04",
+    "split": "test",
+    "duration": 3.375
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV04\\VIVOSDEV04_R013.wav",
+    "text": "ĨA À É ỎI A Í AY AO",
+    "speaker_id": "VIVOSDEV04",
+    "split": "test",
+    "duration": 3.841
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV04\\VIVOSDEV04_R149.wav",
+    "text": "Ộ Ô ÁI ÁY Ắ Ũ Ỡ ẠY Ê ỎI",
+    "speaker_id": "VIVOSDEV04",
+    "split": "test",
+    "duration": 4.7223125
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV04\\VIVOSDEV04_R152.wav",
+    "text": "Ẽ Ô IẾ Ạ Ô ẦY Ư Ữ A Ụ Ộ ÀU",
+    "speaker_id": "VIVOSDEV04",
+    "split": "test",
+    "duration": 4.53125
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV04\\VIVOSDEV04_R162.wav",
+    "text": "Ô Ỉ ỚI ÀO ƯỚI Ặ Ó AI Ầ",
+    "speaker_id": "VIVOSDEV04",
+    "split": "test",
+    "duration": 2.6875
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV04\\VIVOSDEV04_R182.wav",
+    "text": "OẶ Ỉ IỂU IỆ Ằ Á ỐI OẠ O Ó",
+    "speaker_id": "VIVOSDEV04",
+    "split": "test",
+    "duration": 3.5625
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV04\\VIVOSDEV04_R186.wav",
+    "text": "Ằ ẠO A Ự Ấ Ẫ",
+    "speaker_id": "VIVOSDEV04",
+    "split": "test",
+    "duration": 1.9375
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV04\\VIVOSDEV04_R187.wav",
+    "text": "Ứ Â A Ô Ỉ Ả Ậ Ằ Í IÁ",
+    "speaker_id": "VIVOSDEV04",
+    "split": "test",
+    "duration": 3.25
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV04\\VIVOSDEV04_R189.wav",
+    "text": "Ừ ỖI Ô ĐƠ ỦA Ộ Ô É Ị A Ẹ Ỏ UÊ",
+    "speaker_id": "VIVOSDEV04",
+    "split": "test",
+    "duration": 3.375
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV04\\VIVOSDEV04_R023.wav",
+    "text": "Í À Ũ À ƯỜI U ẤU IỀ ĐA Ê IỄ UẤ ỦA Ô O ÁI",
+    "speaker_id": "VIVOSDEV04",
+    "split": "test",
+    "duration": 6.375
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV04\\VIVOSDEV04_R002.wav",
+    "text": "ĐÓ Ũ À ĐỘ Ự Ú ĐẨY ÔI",
+    "speaker_id": "VIVOSDEV04",
+    "split": "test",
+    "duration": 3.375
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV04\\VIVOSDEV04_R047.wav",
+    "text": "Ó I IÊ ẠI ƯỜ Ù Ọ Ặ Ă Ế U",
+    "speaker_id": "VIVOSDEV04",
+    "split": "test",
+    "duration": 4.28125
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV04\\VIVOSDEV04_R049.wav",
+    "text": "Ì ỐI ĐÓ",
+    "speaker_id": "VIVOSDEV04",
+    "split": "test",
+    "duration": 2.0625
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV04\\VIVOSDEV04_R004.wav",
+    "text": "ĐÔI I Ạ Ũ Ó Ể À Ữ ĐIỀU ĐÓ",
+    "speaker_id": "VIVOSDEV04",
+    "split": "test",
+    "duration": 3.5625
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV04\\VIVOSDEV04_R051.wav",
+    "text": "Ạ ÀU Ớ",
+    "speaker_id": "VIVOSDEV04",
+    "split": "test",
+    "duration": 2.25
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV04\\VIVOSDEV04_R056.wav",
+    "text": "Í Ò A ÀO Ơ",
+    "speaker_id": "VIVOSDEV04",
+    "split": "test",
+    "duration": 3.09375
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV04\\VIVOSDEV04_R063.wav",
+    "text": "ÁU Ố Ê ẸO Ọ UỐ ĐÊ",
+    "speaker_id": "VIVOSDEV04",
+    "split": "test",
+    "duration": 3.875
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV04\\VIVOSDEV04_R081.wav",
+    "text": "À ÔI ẤY OA Ạ Ọ À ƯƠ",
+    "speaker_id": "VIVOSDEV04",
+    "split": "test",
+    "duration": 3.1875
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV04\\VIVOSDEV04_R086.wav",
+    "text": "AY IA Á Ộ AY IÓ A IẾ Ị Ớ",
+    "speaker_id": "VIVOSDEV04",
+    "split": "test",
+    "duration": 5.125
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV04\\VIVOSDEV04_R089.wav",
+    "text": "Ủ Ê Ệ Ô Ù Ợ",
+    "speaker_id": "VIVOSDEV04",
+    "split": "test",
+    "duration": 2.3125
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV04\\VIVOSDEV04_R008.wav",
+    "text": "Ữ ÀY ĐẦU Ắ Ó A IỆ Ứ Ừ ƯỜI Ĩ ỢI",
+    "speaker_id": "VIVOSDEV04",
+    "split": "test",
+    "duration": 6.4375
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV04\\VIVOSDEV04_R092.wav",
+    "text": "Ị Á Ô ÁI AO ÂY ÁO IẾ",
+    "speaker_id": "VIVOSDEV04",
+    "split": "test",
+    "duration": 3.0625
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV04\\VIVOSDEV04_R095.wav",
+    "text": "Ơ ỌI IỮA ĐỒ ÁI Ì Ắ OẢI",
+    "speaker_id": "VIVOSDEV04",
+    "split": "test",
+    "duration": 4.25
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV04\\VIVOSDEV04_R097.wav",
+    "text": "OÀI IỆ Á IỆ Ẻ Ù",
+    "speaker_id": "VIVOSDEV04",
+    "split": "test",
+    "duration": 2.375
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV04\\VIVOSDEV04_T015.wav",
+    "text": "Ộ À Ặ ẠI Ấ Ả Á E Ò",
+    "speaker_id": "VIVOSDEV04",
+    "split": "test",
+    "duration": 3.34375
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV04\\VIVOSDEV04_T018.wav",
+    "text": "Ữ AI Ầ I ĐI Ọ Á Ạ",
+    "speaker_id": "VIVOSDEV04",
+    "split": "test",
+    "duration": 2.59375
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV04\\VIVOSDEV04_T029.wav",
+    "text": "A ĐI Ô Á Ầ Ơ UẦ AU ỚI Ề",
+    "speaker_id": "VIVOSDEV04",
+    "split": "test",
+    "duration": 3.0625
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV04\\VIVOSDEV04_T002.wav",
+    "text": "Ó Ả IỀ O Ố Ô Ì ẢO",
+    "speaker_id": "VIVOSDEV04",
+    "split": "test",
+    "duration": 3.0
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV04\\VIVOSDEV04_T032.wav",
+    "text": "A À Ộ Ỏ Ò UA",
+    "speaker_id": "VIVOSDEV04",
+    "split": "test",
+    "duration": 2.0
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV04\\VIVOSDEV04_T035.wav",
+    "text": "A E E ĐẸ E Ê A IÀ",
+    "speaker_id": "VIVOSDEV04",
+    "split": "test",
+    "duration": 2.6875
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV04\\VIVOSDEV04_T003.wav",
+    "text": "Ậ ĐƯỢ I ÀY ỌI ẠI O ÔI Ấ",
+    "speaker_id": "VIVOSDEV04",
+    "split": "test",
+    "duration": 2.96875
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV04\\VIVOSDEV04_T044.wav",
+    "text": "A ÀY Ỉ IỎI Ố É",
+    "speaker_id": "VIVOSDEV04",
+    "split": "test",
+    "duration": 2.6875
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV04\\VIVOSDEV04_T009.wav",
+    "text": "O ÔI Ắ ĐẠI I ÀO Ũ ĐƯỢ",
+    "speaker_id": "VIVOSDEV04",
+    "split": "test",
+    "duration": 2.5625
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV05\\VIVOSDEV05_004.wav",
+    "text": "ÃY ƯỞ ƯỢ Ằ Ạ À À IÁ ĐỐ Ự Á O Ộ Ô Y Ớ",
+    "speaker_id": "VIVOSDEV05",
+    "split": "test",
+    "duration": 4.0625
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV05\\VIVOSDEV05_030.wav",
+    "text": "ỦA Ữ Ế Ự Ù Ạ",
+    "speaker_id": "VIVOSDEV05",
+    "split": "test",
+    "duration": 2.375
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV05\\VIVOSDEV05_037.wav",
+    "text": "Ô Ặ Ó Ê",
+    "speaker_id": "VIVOSDEV05",
+    "split": "test",
+    "duration": 1.9375
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV05\\VIVOSDEV05_043.wav",
+    "text": "UYÊ Ứ ƯỞ AI Ă ÂU ĐÃ Ị Ắ",
+    "speaker_id": "VIVOSDEV05",
+    "split": "test",
+    "duration": 3.0
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV05\\VIVOSDEV05_055.wav",
+    "text": "Ư Ứ Á Ử Ì ĐỐI ỚI Á Ị ÁO À ƯƠ Ứ",
+    "speaker_id": "VIVOSDEV05",
+    "split": "test",
+    "duration": 3.34375
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV05\\VIVOSDEV05_065.wav",
+    "text": "Ữ ƯỜI Ố Ì A Ẩ O À OÀI Õ",
+    "speaker_id": "VIVOSDEV05",
+    "split": "test",
+    "duration": 3.65625
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV05\\VIVOSDEV05_087.wav",
+    "text": "Ả Ô IA UỐ ÀU O Ế",
+    "speaker_id": "VIVOSDEV05",
+    "split": "test",
+    "duration": 2.40625
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV05\\VIVOSDEV05_091.wav",
+    "text": "Á IÔ",
+    "speaker_id": "VIVOSDEV05",
+    "split": "test",
+    "duration": 2.0625
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV05\\VIVOSDEV05_097.wav",
+    "text": "U Ạ Õ Ấ IỀ",
+    "speaker_id": "VIVOSDEV05",
+    "split": "test",
+    "duration": 2.125
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV05\\VIVOSDEV05_107.wav",
+    "text": "Ô Ộ Ô À ĐỔ ƯỜI Ê Ư A ƯỜI YÊU ẦY Ò",
+    "speaker_id": "VIVOSDEV05",
+    "split": "test",
+    "duration": 4.875
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV05\\VIVOSDEV05_109.wav",
+    "text": "OA IỆ UYỂ Ụ AO ĐỘ ƯỚ OÀI",
+    "speaker_id": "VIVOSDEV05",
+    "split": "test",
+    "duration": 2.5625
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV05\\VIVOSDEV05_115.wav",
+    "text": "ỜI Ạ Ử Ụ À OẠI Ả Ẩ Ộ",
+    "speaker_id": "VIVOSDEV05",
+    "split": "test",
+    "duration": 3.875
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV05\\VIVOSDEV05_119.wav",
+    "text": "À Ò Ị Ữ Ộ Ặ Ạ E IA OẠ ỌE",
+    "speaker_id": "VIVOSDEV05",
+    "split": "test",
+    "duration": 3.9375
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV05\\VIVOSDEV05_120.wav",
+    "text": "Ư ÙI ÔI Ẫ Ộ ÀO Ậ Ó",
+    "speaker_id": "VIVOSDEV05",
+    "split": "test",
+    "duration": 3.03125
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV05\\VIVOSDEV05_125.wav",
+    "text": "ĐA À IỆ Ô Ừ Ỉ",
+    "speaker_id": "VIVOSDEV05",
+    "split": "test",
+    "duration": 2.25
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV05\\VIVOSDEV05_129.wav",
+    "text": "U Ú Ấ À IỀU OÀI I",
+    "speaker_id": "VIVOSDEV05",
+    "split": "test",
+    "duration": 2.34375
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV05\\VIVOSDEV05_135.wav",
+    "text": "I Ô Ể IỆ Ô ẤY À Ô Ở Ễ AI Ạ",
+    "speaker_id": "VIVOSDEV05",
+    "split": "test",
+    "duration": 3.5
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV05\\VIVOSDEV05_136.wav",
+    "text": "A IỆU O ÔI I Ặ",
+    "speaker_id": "VIVOSDEV05",
+    "split": "test",
+    "duration": 2.125
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV05\\VIVOSDEV05_143.wav",
+    "text": "Ỏ ĐƯA AY A ÀO Ế Ù Ô Ê Ổ Ớ",
+    "speaker_id": "VIVOSDEV05",
+    "split": "test",
+    "duration": 4.34375
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV05\\VIVOSDEV05_150.wav",
+    "text": "ỒI Ồ Ồ Á Ỉ ẤY É",
+    "speaker_id": "VIVOSDEV05",
+    "split": "test",
+    "duration": 2.6875
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV05\\VIVOSDEV05_155.wav",
+    "text": "ỬA Ò ÁI ĐẤ Ơ ẢY Ă",
+    "speaker_id": "VIVOSDEV05",
+    "split": "test",
+    "duration": 2.375
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV05\\VIVOSDEV05_170.wav",
+    "text": "Ậ Ắ Ắ U ƯỚ Á IỂ Ô Ệ ỚI",
+    "speaker_id": "VIVOSDEV05",
+    "split": "test",
+    "duration": 3.875
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV05\\VIVOSDEV05_185.wav",
+    "text": "À ƯỜ ƯỢ A Ì Ó Ẹ",
+    "speaker_id": "VIVOSDEV05",
+    "split": "test",
+    "duration": 2.5625
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV05\\VIVOSDEV05_189.wav",
+    "text": "ỖI ƯỜI Ộ Ố Ậ E À",
+    "speaker_id": "VIVOSDEV05",
+    "split": "test",
+    "duration": 2.4375
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV05\\VIVOSDEV05_199.wav",
+    "text": "Ầ ỮA ÃI ỚI Ặ ĐƯỢ UYÊ",
+    "speaker_id": "VIVOSDEV05",
+    "split": "test",
+    "duration": 2.9375
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV05\\VIVOSDEV05_200.wav",
+    "text": "À ĐƯỜ ÂY ĐỂ ỐI Á Ả ĐỜI",
+    "speaker_id": "VIVOSDEV05",
+    "split": "test",
+    "duration": 2.75
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV05\\VIVOSDEV05_202.wav",
+    "text": "Ị AI Ủ UÁ E À Á Ô Ả Ũ A Ó UYỆ",
+    "speaker_id": "VIVOSDEV05",
+    "split": "test",
+    "duration": 3.84375
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV05\\VIVOSDEV05_206.wav",
+    "text": "Ứ Ắ Ậ Ề ÉO ỌI ƯỜI Ứ Ở ẠI ỜI OA Ơ",
+    "speaker_id": "VIVOSDEV05",
+    "split": "test",
+    "duration": 4.5625
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV05\\VIVOSDEV05_209.wav",
+    "text": "Ê ỌI ẠI ĐỊA ƯƠ À Ắ ỐI",
+    "speaker_id": "VIVOSDEV05",
+    "split": "test",
+    "duration": 3.1875
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV05\\VIVOSDEV05_212.wav",
+    "text": "Ố IẾ Ố ĐẠI È A",
+    "speaker_id": "VIVOSDEV05",
+    "split": "test",
+    "duration": 2.625
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV05\\VIVOSDEV05_226.wav",
+    "text": "Ộ Ú OẶ Ô Í Á",
+    "speaker_id": "VIVOSDEV05",
+    "split": "test",
+    "duration": 2.0625
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV05\\VIVOSDEV05_231.wav",
+    "text": "ỚI ĐÂY Ấ À Á IỂU ƯƠ UỐ Ả Ậ Ố Ấ",
+    "speaker_id": "VIVOSDEV05",
+    "split": "test",
+    "duration": 3.625
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV05\\VIVOSDEV05_238.wav",
+    "text": "Ộ ĐỒ ƯỜI Ê OÁ Ọ Ê OÀ Ế IỚI",
+    "speaker_id": "VIVOSDEV05",
+    "split": "test",
+    "duration": 3.0625
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV05\\VIVOSDEV05_249.wav",
+    "text": "ÔI Ĩ Ủ ƯỚ Ẽ Ô É Á Ấ Ứ ÂU ỎI ÀO",
+    "speaker_id": "VIVOSDEV05",
+    "split": "test",
+    "duration": 4.125
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV05\\VIVOSDEV05_251.wav",
+    "text": "Ọ UÔ ẬU A ÚY À Ũ Í",
+    "speaker_id": "VIVOSDEV05",
+    "split": "test",
+    "duration": 2.5
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV05\\VIVOSDEV05_261.wav",
+    "text": "ẠI UAY A Ậ IẾ ÁO ỒI ỬI U Ơ",
+    "speaker_id": "VIVOSDEV05",
+    "split": "test",
+    "duration": 3.5625
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV05\\VIVOSDEV05_263.wav",
+    "text": "E IẾ Ì Ị A A Ì ĐOÁ Ú Ó À Ú Ầ ẦU",
+    "speaker_id": "VIVOSDEV05",
+    "split": "test",
+    "duration": 4.4375
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV05\\VIVOSDEV05_270.wav",
+    "text": "ƯA Ụ Ị Ì",
+    "speaker_id": "VIVOSDEV05",
+    "split": "test",
+    "duration": 2.1875
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV05\\VIVOSDEV05_286.wav",
+    "text": "Ế Ư I IÁ ÔI É Ế IỚI AO Ầ",
+    "speaker_id": "VIVOSDEV05",
+    "split": "test",
+    "duration": 3.625
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV05\\VIVOSDEV05_295.wav",
+    "text": "À Ỏ Á IẾ Ị ỦA Ê ỬA",
+    "speaker_id": "VIVOSDEV05",
+    "split": "test",
+    "duration": 2.8125
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV06\\VIVOSDEV06_001.wav",
+    "text": "ĐƠ IẢ À Á ẪU ỚI AU",
+    "speaker_id": "VIVOSDEV06",
+    "split": "test",
+    "duration": 2.6875
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV06\\VIVOSDEV06_006.wav",
+    "text": "À O ỐI Ố UI ỦI ỦA Ú",
+    "speaker_id": "VIVOSDEV06",
+    "split": "test",
+    "duration": 3.25
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV06\\VIVOSDEV06_016.wav",
+    "text": "ÂU IA ĐÃ A ÀY Ô ẠO",
+    "speaker_id": "VIVOSDEV06",
+    "split": "test",
+    "duration": 3.1875
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV06\\VIVOSDEV06_021.wav",
+    "text": "Ộ ĐƯỜ ƯỚ UYÊ IỆ",
+    "speaker_id": "VIVOSDEV06",
+    "split": "test",
+    "duration": 2.5625
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV06\\VIVOSDEV06_022.wav",
+    "text": "Í ỨU ỎA Ó IẾ Ậ IỆ ƯỜ",
+    "speaker_id": "VIVOSDEV06",
+    "split": "test",
+    "duration": 3.125
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV06\\VIVOSDEV06_034.wav",
+    "text": "Ữ ƯỜI Ê E ỦA Ô A ĐÃ Ắ Ẳ ÀO E A Ủ",
+    "speaker_id": "VIVOSDEV06",
+    "split": "test",
+    "duration": 4.96875
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV06\\VIVOSDEV06_037.wav",
+    "text": "ĐỪ UỒ Ì Ự IẰ Ặ Ì ỮA",
+    "speaker_id": "VIVOSDEV06",
+    "split": "test",
+    "duration": 2.8125
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV06\\VIVOSDEV06_040.wav",
+    "text": "À Í ÀO ŨI À Ấ ÀY OÃ A",
+    "speaker_id": "VIVOSDEV06",
+    "split": "test",
+    "duration": 3.6875
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV06\\VIVOSDEV06_042.wav",
+    "text": "ĐA Ấ Ẫ Á Ậ ĐOÀ Â ỐI ĐA UỐ IA",
+    "speaker_id": "VIVOSDEV06",
+    "split": "test",
+    "duration": 3.6875
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV06\\VIVOSDEV06_054.wav",
+    "text": "Ù À ĐẬU Ứ Ạ OẶ ẢI Ô Ủ O",
+    "speaker_id": "VIVOSDEV06",
+    "split": "test",
+    "duration": 3.6875
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV06\\VIVOSDEV06_061.wav",
+    "text": "Ì Ó Ô Ắ ĐẾ Ữ UỘ Ấ Ô Ắ ÀO ƯỜI O ÁI",
+    "speaker_id": "VIVOSDEV06",
+    "split": "test",
+    "duration": 4.5625
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV06\\VIVOSDEV06_070.wav",
+    "text": "ỒI Ề À ĐÔI ÂU Ọ Ổ ỚI Â UỘ",
+    "speaker_id": "VIVOSDEV06",
+    "split": "test",
+    "duration": 3.8125
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV06\\VIVOSDEV06_078.wav",
+    "text": "Ở Ớ ẤU Ă IA ĐÌ",
+    "speaker_id": "VIVOSDEV06",
+    "split": "test",
+    "duration": 2.90625
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV06\\VIVOSDEV06_079.wav",
+    "text": "À Ạ Ó Ể A ẢO ĐỂ À ĐẸ IA Ế",
+    "speaker_id": "VIVOSDEV06",
+    "split": "test",
+    "duration": 4.4375
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV06\\VIVOSDEV06_098.wav",
+    "text": "ÁI Ị Á Á À ĐẮ Ắ ỦA À Ê UYÊ Ấ",
+    "speaker_id": "VIVOSDEV06",
+    "split": "test",
+    "duration": 4.53125
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV06\\VIVOSDEV06_103.wav",
+    "text": "Á E Ỏ Ẽ Ô Ò ẢI ĐI Ê Ữ UYẾ ĐÒ UY IỂ",
+    "speaker_id": "VIVOSDEV06",
+    "split": "test",
+    "duration": 4.8125
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV06\\VIVOSDEV06_108.wav",
+    "text": "À Ô À Ọ ẠY Ứ Ắ Ả ĐÊ",
+    "speaker_id": "VIVOSDEV06",
+    "split": "test",
+    "duration": 3.875
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV06\\VIVOSDEV06_117.wav",
+    "text": "IẢI UYẾ ỐI U Ọ ÀY ẢI Ầ ĐẾ Ộ UỘ ĐẠI ẪU IÊ Ú",
+    "speaker_id": "VIVOSDEV06",
+    "split": "test",
+    "duration": 4.71875
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV06\\VIVOSDEV06_126.wav",
+    "text": "Ậ Í À IỐ ÁO UÍ À À Ố",
+    "speaker_id": "VIVOSDEV06",
+    "split": "test",
+    "duration": 3.9375
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV06\\VIVOSDEV06_139.wav",
+    "text": "Ò Ộ A I Ừ ĐIỂ",
+    "speaker_id": "VIVOSDEV06",
+    "split": "test",
+    "duration": 3.0625
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV06\\VIVOSDEV06_143.wav",
+    "text": "ĐÔI ÔI Ẹ AI O Ấ ÁY Ộ ỜI A OA OẢI",
+    "speaker_id": "VIVOSDEV06",
+    "split": "test",
+    "duration": 4.4375
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV06\\VIVOSDEV06_157.wav",
+    "text": "Ố Á UY ĐOÁ Ằ A A À ĐỘ Á Â ẬY",
+    "speaker_id": "VIVOSDEV06",
+    "split": "test",
+    "duration": 4.71875
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV06\\VIVOSDEV06_168.wav",
+    "text": "À U",
+    "speaker_id": "VIVOSDEV06",
+    "split": "test",
+    "duration": 1.625
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV06\\VIVOSDEV06_184.wav",
+    "text": "OẶ Ạ Ẽ ĐẾ ĐẤY ỚI Ộ Â Ạ Á Á Ô Ù",
+    "speaker_id": "VIVOSDEV06",
+    "split": "test",
+    "duration": 4.8125
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV06\\VIVOSDEV06_195.wav",
+    "text": "ẢI ĐƯỢ Ự IỆ Ê Ơ Ở",
+    "speaker_id": "VIVOSDEV06",
+    "split": "test",
+    "duration": 3.0
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV06\\VIVOSDEV06_210.wav",
+    "text": "AI ƯƠI ÁU AI ƯƠI ẢY",
+    "speaker_id": "VIVOSDEV06",
+    "split": "test",
+    "duration": 2.84375
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV06\\VIVOSDEV06_212.wav",
+    "text": "A ƯƠI A ƯƠI Ố",
+    "speaker_id": "VIVOSDEV06",
+    "split": "test",
+    "duration": 2.25
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV06\\VIVOSDEV06_222.wav",
+    "text": "Ă ƯƠI Ă ƯƠI Ố",
+    "speaker_id": "VIVOSDEV06",
+    "split": "test",
+    "duration": 2.75
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV06\\VIVOSDEV06_240.wav",
+    "text": "Á ƯƠI ÁU Á ƯƠI ẢY",
+    "speaker_id": "VIVOSDEV06",
+    "split": "test",
+    "duration": 3.375
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV06\\VIVOSDEV06_241.wav",
+    "text": "Á ƯƠI Á Á ƯƠI Í",
+    "speaker_id": "VIVOSDEV06",
+    "split": "test",
+    "duration": 2.8125
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV06\\VIVOSDEV06_247.wav",
+    "text": "Ộ Ă Ộ AI A",
+    "speaker_id": "VIVOSDEV06",
+    "split": "test",
+    "duration": 3.0625
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV06\\VIVOSDEV06_248.wav",
+    "text": "Ộ A Ă ẢY Í",
+    "speaker_id": "VIVOSDEV06",
+    "split": "test",
+    "duration": 3.0625
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV06\\VIVOSDEV06_252.wav",
+    "text": "ÓI ƯỚ ƯỚ Ô UA",
+    "speaker_id": "VIVOSDEV06",
+    "split": "test",
+    "duration": 3.03125
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV06\\VIVOSDEV06_253.wav",
+    "text": "Ẳ À ẤY Ô AY ÔI ĐAU Ụ UÁ",
+    "speaker_id": "VIVOSDEV06",
+    "split": "test",
+    "duration": 3.375
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV06\\VIVOSDEV06_261.wav",
+    "text": "AO Ế UẢ A Ệ ẬY",
+    "speaker_id": "VIVOSDEV06",
+    "split": "test",
+    "duration": 3.375
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV06\\VIVOSDEV06_272.wav",
+    "text": "ÔI Ỉ UỐ E Ữ ĐOẠ AY À ÔI",
+    "speaker_id": "VIVOSDEV06",
+    "split": "test",
+    "duration": 4.1875
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV06\\VIVOSDEV06_285.wav",
+    "text": "Ô Y Á IỆ ỮU Ạ Ă UỐ",
+    "speaker_id": "VIVOSDEV06",
+    "split": "test",
+    "duration": 3.5625
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV06\\VIVOSDEV06_286.wav",
+    "text": "Í UYỂ IAO Ô Ệ À A Ụ À ĐỒ",
+    "speaker_id": "VIVOSDEV06",
+    "split": "test",
+    "duration": 3.84375
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV06\\VIVOSDEV06_287.wav",
+    "text": "ƯƠ A Ọ A ĐỒ Ì UÔI ĐƯỢ AI",
+    "speaker_id": "VIVOSDEV06",
+    "split": "test",
+    "duration": 3.5625
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV06\\VIVOSDEV06_296.wav",
+    "text": "Ô ẤY ĐÃ UÁ É",
+    "speaker_id": "VIVOSDEV06",
+    "split": "test",
+    "duration": 2.5625
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV07\\VIVOSDEV07_002.wav",
+    "text": "Ằ Ă Ú A ẢI A À Ỉ IẾ Ị ĐIỆ Ử",
+    "speaker_id": "VIVOSDEV07",
+    "split": "test",
+    "duration": 3.46875
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV07\\VIVOSDEV07_025.wav",
+    "text": "O Ữ UYẾ Ã OẠI ỦA U Á",
+    "speaker_id": "VIVOSDEV07",
+    "split": "test",
+    "duration": 3.0625
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV07\\VIVOSDEV07_030.wav",
+    "text": "Ữ ƯỢ ĐIỂ ỦA Ì",
+    "speaker_id": "VIVOSDEV07",
+    "split": "test",
+    "duration": 2.3125
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV07\\VIVOSDEV07_036.wav",
+    "text": "Ì ĐÓ ỚI Í À Ứ Ạ Ầ",
+    "speaker_id": "VIVOSDEV07",
+    "split": "test",
+    "duration": 3.0
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV07\\VIVOSDEV07_039.wav",
+    "text": "IÓ ỜI Ô Ể Ô Ố ỔI ÀO AI U",
+    "speaker_id": "VIVOSDEV07",
+    "split": "test",
+    "duration": 3.8125
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV07\\VIVOSDEV07_044.wav",
+    "text": "ỞI Ơ UA UYÊ Ô OẶ UÊ Ổ Ứ IỂ OÁ ĐỘ Ậ",
+    "speaker_id": "VIVOSDEV07",
+    "split": "test",
+    "duration": 3.8125
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV07\\VIVOSDEV07_045.wav",
+    "text": "OẶ O ÀO ẠI UỐI ĐỂ Ợ Ă Ầ",
+    "speaker_id": "VIVOSDEV07",
+    "split": "test",
+    "duration": 3.28125
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV07\\VIVOSDEV07_064.wav",
+    "text": "Ứ Ụ Á ĐẦU Ó AY ẠI Ộ Ỗ",
+    "speaker_id": "VIVOSDEV07",
+    "split": "test",
+    "duration": 4.5625
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV07\\VIVOSDEV07_066.wav",
+    "text": "ĐÃ Ó Ự Á ĐỂ ÂY Ự Ộ ÁI ẦU Ừ ĐẤ IỀ",
+    "speaker_id": "VIVOSDEV07",
+    "split": "test",
+    "duration": 4.1875
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV07\\VIVOSDEV07_067.wav",
+    "text": "Ạ ÀO Ầ Ó Ề Ê ĐẦU É",
+    "speaker_id": "VIVOSDEV07",
+    "split": "test",
+    "duration": 3.375
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV07\\VIVOSDEV07_084.wav",
+    "text": "Ì Ỗ E ẤY IẾ OÁ OÁ Ừ Ạ Ừ I AO",
+    "speaker_id": "VIVOSDEV07",
+    "split": "test",
+    "duration": 3.8125
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV07\\VIVOSDEV07_093.wav",
+    "text": "Ụ Ụ O ÙA I ĐẠI Ọ ĐA ĐẾ Á Ạ",
+    "speaker_id": "VIVOSDEV07",
+    "split": "test",
+    "duration": 3.3125
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV07\\VIVOSDEV07_098.wav",
+    "text": "Ậ IẾ Í Í",
+    "speaker_id": "VIVOSDEV07",
+    "split": "test",
+    "duration": 3.375
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV07\\VIVOSDEV07_107.wav",
+    "text": "UYÊ Ứ ƯỞ Ộ ĐẠI Ọ À IÁO Ụ UYÊ IỆ Ũ",
+    "speaker_id": "VIVOSDEV07",
+    "split": "test",
+    "duration": 3.9375
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV07\\VIVOSDEV07_115.wav",
+    "text": "ÀO Ơ UA À A Ó IỐ Ệ Ồ ỚI Ộ ƯỠI ẬY",
+    "speaker_id": "VIVOSDEV07",
+    "split": "test",
+    "duration": 3.78125
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV07\\VIVOSDEV07_125.wav",
+    "text": "Á Ừ ĐÃ OẠI ẢY ƯƠI",
+    "speaker_id": "VIVOSDEV07",
+    "split": "test",
+    "duration": 3.5625
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV07\\VIVOSDEV07_127.wav",
+    "text": "Ó AI Á Ụ Í Ự",
+    "speaker_id": "VIVOSDEV07",
+    "split": "test",
+    "duration": 2.125
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV07\\VIVOSDEV07_134.wav",
+    "text": "A IA IẢ ẠY À Ự ƯỢ ĐOÀ IÊ",
+    "speaker_id": "VIVOSDEV07",
+    "split": "test",
+    "duration": 2.84375
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV07\\VIVOSDEV07_138.wav",
+    "text": "ĐÓ Ẳ À Ộ Ó UÀ",
+    "speaker_id": "VIVOSDEV07",
+    "split": "test",
+    "duration": 2.375
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV07\\VIVOSDEV07_141.wav",
+    "text": "À I ẤY ÔI Ẫ IÊ ĐỊ Ả ỜI Ớ UỚ",
+    "speaker_id": "VIVOSDEV07",
+    "split": "test",
+    "duration": 3.4375
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV07\\VIVOSDEV07_151.wav",
+    "text": "Ô Ó Ô I",
+    "speaker_id": "VIVOSDEV07",
+    "split": "test",
+    "duration": 2.0
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV07\\VIVOSDEV07_156.wav",
+    "text": "ĐẦU IÊ À À O Ì Ậ Ã À Ă",
+    "speaker_id": "VIVOSDEV07",
+    "split": "test",
+    "duration": 2.875
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV07\\VIVOSDEV07_168.wav",
+    "text": "À O ĐẾ Ú ĐÓ ĐƯỢ E À ỦA Ư Â",
+    "speaker_id": "VIVOSDEV07",
+    "split": "test",
+    "duration": 3.5
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV07\\VIVOSDEV07_170.wav",
+    "text": "Ư Ầ ÀY ĐƯỢ Ế Ó IÒ Ủ OÀ OÀ À Ừ AI EO",
+    "speaker_id": "VIVOSDEV07",
+    "split": "test",
+    "duration": 4.28125
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV07\\VIVOSDEV07_182.wav",
+    "text": "Ữ ƯỜI OÀI I ÓI Ằ IỮ ĐƯỢ Ậ EO Ủ Ẳ Ê ƯỜI",
+    "speaker_id": "VIVOSDEV07",
+    "split": "test",
+    "duration": 4.03125
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV07\\VIVOSDEV07_185.wav",
+    "text": "ÍU Í ỢI Ì Ẹ O U Ọ",
+    "speaker_id": "VIVOSDEV07",
+    "split": "test",
+    "duration": 2.5625
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV07\\VIVOSDEV07_190.wav",
+    "text": "ƠI Ó ẤY Ê Ô Ấ ẤU",
+    "speaker_id": "VIVOSDEV07",
+    "split": "test",
+    "duration": 2.4375
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV07\\VIVOSDEV07_192.wav",
+    "text": "IỀU ƯỜI O IẾ",
+    "speaker_id": "VIVOSDEV07",
+    "split": "test",
+    "duration": 1.90625
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV07\\VIVOSDEV07_194.wav",
+    "text": "IỀU Ụ ĐÁ I Í Ằ IÊ Ả À Ỡ Á",
+    "speaker_id": "VIVOSDEV07",
+    "split": "test",
+    "duration": 2.9375
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV07\\VIVOSDEV07_195.wav",
+    "text": "Ọ Ũ UÔ Á A Ữ Ì UỐ Ó Ể ÂY ẠI O Ọ",
+    "speaker_id": "VIVOSDEV07",
+    "split": "test",
+    "duration": 3.875
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV07\\VIVOSDEV07_197.wav",
+    "text": "O UỘ Ố ỦA ÔI Ú Ô Ù ĐỂ IẾ A ỢI UẬ",
+    "speaker_id": "VIVOSDEV07",
+    "split": "test",
+    "duration": 4.0625
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV07\\VIVOSDEV07_209.wav",
+    "text": "AI ƯƠI Ố AI ƯƠI Ă",
+    "speaker_id": "VIVOSDEV07",
+    "split": "test",
+    "duration": 2.46875
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV07\\VIVOSDEV07_211.wav",
+    "text": "AI ƯƠI Á AI ƯƠI Í",
+    "speaker_id": "VIVOSDEV07",
+    "split": "test",
+    "duration": 2.375
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV07\\VIVOSDEV07_223.wav",
+    "text": "Ă ƯƠI AI Ă ƯƠI A",
+    "speaker_id": "VIVOSDEV07",
+    "split": "test",
+    "duration": 2.5625
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV07\\VIVOSDEV07_231.wav",
+    "text": "ÁU ƯƠI Á ÁU ƯƠI Í",
+    "speaker_id": "VIVOSDEV07",
+    "split": "test",
+    "duration": 2.5625
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV07\\VIVOSDEV07_236.wav",
+    "text": "ẢY ƯƠI Á ẢY ƯƠI Í",
+    "speaker_id": "VIVOSDEV07",
+    "split": "test",
+    "duration": 2.28125
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV07\\VIVOSDEV07_246.wav",
+    "text": "Í ƯƠI Á Í ƯƠI Í",
+    "speaker_id": "VIVOSDEV07",
+    "split": "test",
+    "duration": 2.5625
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV07\\VIVOSDEV07_264.wav",
+    "text": "UỔI Á À Ố Ô IỄ Ơ UỔI ƯA",
+    "speaker_id": "VIVOSDEV07",
+    "split": "test",
+    "duration": 2.8125
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV07\\VIVOSDEV07_266.wav",
+    "text": "Ó IẬ ÔI ĐÃ Ă Ạ A",
+    "speaker_id": "VIVOSDEV07",
+    "split": "test",
+    "duration": 2.5625
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV07\\VIVOSDEV07_295.wav",
+    "text": "Ủ ÀU O IẾ Ẽ IẾ Ụ ƯƠ UYẾ Ề Ố I Í ÀY",
+    "speaker_id": "VIVOSDEV07",
+    "split": "test",
+    "duration": 3.75
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV08\\VIVOSDEV08_002.wav",
+    "text": "ĐỪ ĐỂ O ÂU Ă",
+    "speaker_id": "VIVOSDEV08",
+    "split": "test",
+    "duration": 2.375
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV08\\VIVOSDEV08_005.wav",
+    "text": "ÂY Ổ Ụ ẤY Ấ Ợ Ị Ệ Ậ UẬ Ã",
+    "speaker_id": "VIVOSDEV08",
+    "split": "test",
+    "duration": 3.40625
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV08\\VIVOSDEV08_014.wav",
+    "text": "À ẾU Ạ Ó À Ộ Ộ À Ì Ề",
+    "speaker_id": "VIVOSDEV08",
+    "split": "test",
+    "duration": 3.625
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV08\\VIVOSDEV08_025.wav",
+    "text": "ĐẠO IỄ Ẻ ÀY Ó IỀU ĐIỀU Ẫ ỢI Ề Ề",
+    "speaker_id": "VIVOSDEV08",
+    "split": "test",
+    "duration": 3.6875
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV08\\VIVOSDEV08_032.wav",
+    "text": "Ẽ Ô IẾ Ạ Ô ẦY Ư Ữ A Ụ Ộ ÀU",
+    "speaker_id": "VIVOSDEV08",
+    "split": "test",
+    "duration": 5.1875
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV08\\VIVOSDEV08_053.wav",
+    "text": "ỞI Ơ UA UYÊ Ô OẶ UÊ Ổ Ứ IỂ OÁ ĐỘ Ậ",
+    "speaker_id": "VIVOSDEV08",
+    "split": "test",
+    "duration": 4.15625
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV08\\VIVOSDEV08_057.wav",
+    "text": "Ó Ậ ĐẬ ĐẠ IẾ E À À Ă AY A ĐẦU ĐƯỜ",
+    "speaker_id": "VIVOSDEV08",
+    "split": "test",
+    "duration": 4.3125
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV08\\VIVOSDEV08_062.wav",
+    "text": "OẶ Ỉ IỂU IỆ Ằ Á ỐI OẠ O Ó",
+    "speaker_id": "VIVOSDEV08",
+    "split": "test",
+    "duration": 3.25
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV08\\VIVOSDEV08_071.wav",
+    "text": "I ÔI À O É Ớ Ố Ì ÂY Ả ĐÃ AO UÁ Ó À",
+    "speaker_id": "VIVOSDEV08",
+    "split": "test",
+    "duration": 4.46875
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV08\\VIVOSDEV08_077.wav",
+    "text": "UỔI ĐẦU Ậ Ó Ă EO ĐUỔI ƯƠ Ì Ọ",
+    "speaker_id": "VIVOSDEV08",
+    "split": "test",
+    "duration": 3.0
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV08\\VIVOSDEV08_085.wav",
+    "text": "IỆ ĐƯA Í IỆU UYỀ Ì Ự IẾ Ằ Ệ Ố Á UA",
+    "speaker_id": "VIVOSDEV08",
+    "split": "test",
+    "duration": 4.15625
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV08\\VIVOSDEV08_090.wav",
+    "text": "Ì Ô Ó IỀ ĐÓ Ọ Í",
+    "speaker_id": "VIVOSDEV08",
+    "split": "test",
+    "duration": 2.375
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV08\\VIVOSDEV08_093.wav",
+    "text": "Ì Ỗ E ẤY IẾ OÁ OÁ Ừ Ạ Ừ I AO",
+    "speaker_id": "VIVOSDEV08",
+    "split": "test",
+    "duration": 4.25
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV08\\VIVOSDEV08_100.wav",
+    "text": "AY ĐẢ ẢO Ằ ÀY ÀO Ú Ũ ĐƯỢ ĐI Ữ ĐÔI Ấ Ạ",
+    "speaker_id": "VIVOSDEV08",
+    "split": "test",
+    "duration": 3.75
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV08\\VIVOSDEV08_127.wav",
+    "text": "Ề IỆ A ĐẾ O Á E IỀ UI Ọ",
+    "speaker_id": "VIVOSDEV08",
+    "split": "test",
+    "duration": 3.1875
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV08\\VIVOSDEV08_128.wav",
+    "text": "Ó Ẽ ẢI Ấ IỀU ỜI IA",
+    "speaker_id": "VIVOSDEV08",
+    "split": "test",
+    "duration": 2.625
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV08\\VIVOSDEV08_129.wav",
+    "text": "ƯỚ Ỗ Ê IẾ ĐỒ Ồ ĐÃ Ắ Ê ÀU Ụ Ó OÁ",
+    "speaker_id": "VIVOSDEV08",
+    "split": "test",
+    "duration": 3.875
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV08\\VIVOSDEV08_141.wav",
+    "text": "I Ứ É IẾ Ấ Ú Ở ẠI Ì Ạ Ề ẺO Ì ƯỜ",
+    "speaker_id": "VIVOSDEV08",
+    "split": "test",
+    "duration": 4.8125
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV08\\VIVOSDEV08_143.wav",
+    "text": "A IA IẢ ẠY À Ự ƯỢ ĐOÀ IÊ",
+    "speaker_id": "VIVOSDEV08",
+    "split": "test",
+    "duration": 3.0625
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV08\\VIVOSDEV08_145.wav",
+    "text": "À ẢI OẶ ÓI IỀU ÀU",
+    "speaker_id": "VIVOSDEV08",
+    "split": "test",
+    "duration": 2.6875
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV08\\VIVOSDEV08_159.wav",
+    "text": "ỚI ƯỜI Ẹ Ở Ó ÀI O IÊ",
+    "speaker_id": "VIVOSDEV08",
+    "split": "test",
+    "duration": 2.8125
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV08\\VIVOSDEV08_163.wav",
+    "text": "ƯƠ Ì ĐÃ ẠO ĐƯỢ IỆU Ứ Ố Ừ ÍA Á IẢ Í",
+    "speaker_id": "VIVOSDEV08",
+    "split": "test",
+    "duration": 4.59375
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV08\\VIVOSDEV08_166.wav",
+    "text": "Ị Ụ IỂ A Ứ ỎE ĐỊ Ỳ À Ộ Ý IẾ AY",
+    "speaker_id": "VIVOSDEV08",
+    "split": "test",
+    "duration": 3.625
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV08\\VIVOSDEV08_180.wav",
+    "text": "Í Ự Ê À Ồ Ạ ĐÓ",
+    "speaker_id": "VIVOSDEV08",
+    "split": "test",
+    "duration": 3.125
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV08\\VIVOSDEV08_182.wav",
+    "text": "Ế UẢ Ỉ Ó Ỏ Ẹ A ƯỜI Ò IẾ Ệ",
+    "speaker_id": "VIVOSDEV08",
+    "split": "test",
+    "duration": 3.375
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV08\\VIVOSDEV08_193.wav",
+    "text": "À ƯƠ ĐỐI Ó IỆU UẢ",
+    "speaker_id": "VIVOSDEV08",
+    "split": "test",
+    "duration": 2.1875
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV08\\VIVOSDEV08_196.wav",
+    "text": "Ầ Ớ Ọ I IÀU Ó ƯỜI ƯỚ OÀI",
+    "speaker_id": "VIVOSDEV08",
+    "split": "test",
+    "duration": 2.8125
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV08\\VIVOSDEV08_201.wav",
+    "text": "Ô Ộ AI A Ố",
+    "speaker_id": "VIVOSDEV08",
+    "split": "test",
+    "duration": 2.25
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV08\\VIVOSDEV08_208.wav",
+    "text": "AI ƯƠI AI AI ƯƠI A",
+    "speaker_id": "VIVOSDEV08",
+    "split": "test",
+    "duration": 2.25
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV08\\VIVOSDEV08_210.wav",
+    "text": "AI ƯƠI ÁU AI ƯƠI ẢY",
+    "speaker_id": "VIVOSDEV08",
+    "split": "test",
+    "duration": 2.375
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV08\\VIVOSDEV08_214.wav",
+    "text": "A ƯƠI Ố A ƯƠI Ă",
+    "speaker_id": "VIVOSDEV08",
+    "split": "test",
+    "duration": 2.8125
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV08\\VIVOSDEV08_222.wav",
+    "text": "Ă ƯƠI Ă ƯƠI Ố",
+    "speaker_id": "VIVOSDEV08",
+    "split": "test",
+    "duration": 2.375
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV08\\VIVOSDEV08_224.wav",
+    "text": "Ă ƯƠI Ố Ă ƯƠI Ă",
+    "speaker_id": "VIVOSDEV08",
+    "split": "test",
+    "duration": 2.375
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV08\\VIVOSDEV08_233.wav",
+    "text": "ẢY ƯƠI AI ẢY ƯƠI A",
+    "speaker_id": "VIVOSDEV08",
+    "split": "test",
+    "duration": 3.25
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV08\\VIVOSDEV08_270.wav",
+    "text": "ÓI Ậ ĐẤY À",
+    "speaker_id": "VIVOSDEV08",
+    "split": "test",
+    "duration": 1.875
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV08\\VIVOSDEV08_271.wav",
+    "text": "UÁ Ố ỒI",
+    "speaker_id": "VIVOSDEV08",
+    "split": "test",
+    "duration": 2.375
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV08\\VIVOSDEV08_274.wav",
+    "text": "ÔI Ế Ù ỚI Á Ă",
+    "speaker_id": "VIVOSDEV08",
+    "split": "test",
+    "duration": 1.8125
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV08\\VIVOSDEV08_277.wav",
+    "text": "ĐÀ Ô Ó AI Ứ ĐỂ UỒ",
+    "speaker_id": "VIVOSDEV08",
+    "split": "test",
+    "duration": 2.5
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV08\\VIVOSDEV08_295.wav",
+    "text": "IÀU ĐỔI Ạ A ĐỔI Ợ",
+    "speaker_id": "VIVOSDEV08",
+    "split": "test",
+    "duration": 2.875
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV08\\VIVOSDEV08_300.wav",
+    "text": "Á Ạ Ê OA ÀU Ố À",
+    "speaker_id": "VIVOSDEV08",
+    "split": "test",
+    "duration": 3.0
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV09\\VIVOSDEV09_015.wav",
+    "text": "À Ờ Ợ IỂ ÂY AU Á Ấ Ơ",
+    "speaker_id": "VIVOSDEV09",
+    "split": "test",
+    "duration": 3.3125
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV09\\VIVOSDEV09_022.wav",
+    "text": "Ứ Ự UYẾ Ũ Á Ư Â",
+    "speaker_id": "VIVOSDEV09",
+    "split": "test",
+    "duration": 2.375
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV09\\VIVOSDEV09_029.wav",
+    "text": "Ạ Ó Ể IỂ Á ƯỜI ÁI E",
+    "speaker_id": "VIVOSDEV09",
+    "split": "test",
+    "duration": 2.3125
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV09\\VIVOSDEV09_035.wav",
+    "text": "OÁ OÁ Ă Ở OÁ OÁ UỒ UI",
+    "speaker_id": "VIVOSDEV09",
+    "split": "test",
+    "duration": 3.09375
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV09\\VIVOSDEV09_038.wav",
+    "text": "Ò À IÊU Ũ Á UẠ ỐI AY ĐỎ",
+    "speaker_id": "VIVOSDEV09",
+    "split": "test",
+    "duration": 3.71875
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV09\\VIVOSDEV09_039.wav",
+    "text": "Ị Ọ Ừ ẤY ẠI A EO Ù Á ÂY Ệ",
+    "speaker_id": "VIVOSDEV09",
+    "split": "test",
+    "duration": 3.4375
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV09\\VIVOSDEV09_041.wav",
+    "text": "IỆ O IỀU OẠI ỎI Ó Ặ Ê Ị ƯỜ",
+    "speaker_id": "VIVOSDEV09",
+    "split": "test",
+    "duration": 3.125
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV09\\VIVOSDEV09_047.wav",
+    "text": "ÀY Ă Ậ AI Ỉ IỄ A Í Ầ O Ộ Ế Ỷ",
+    "speaker_id": "VIVOSDEV09",
+    "split": "test",
+    "duration": 4.3125
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV09\\VIVOSDEV09_055.wav",
+    "text": "ỒI Ơ Ạ Ô EO Â Ì ẦY Ẳ",
+    "speaker_id": "VIVOSDEV09",
+    "split": "test",
+    "duration": 3.4375
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV09\\VIVOSDEV09_077.wav",
+    "text": "ĐỂ Ó Ể Ậ À Ú ĐƯỢ IỆU UẢ Ơ",
+    "speaker_id": "VIVOSDEV09",
+    "split": "test",
+    "duration": 2.84375
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV09\\VIVOSDEV09_081.wav",
+    "text": "ĐƯỢ Ỹ ÁO IẾ U A",
+    "speaker_id": "VIVOSDEV09",
+    "split": "test",
+    "duration": 2.3125
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV09\\VIVOSDEV09_083.wav",
+    "text": "Ì ƯỢ A Ú ỚI UÁ IỀU",
+    "speaker_id": "VIVOSDEV09",
+    "split": "test",
+    "duration": 2.4375
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV09\\VIVOSDEV09_091.wav",
+    "text": "ƯỚ ẢY UÁ Ạ",
+    "speaker_id": "VIVOSDEV09",
+    "split": "test",
+    "duration": 1.90625
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV09\\VIVOSDEV09_098.wav",
+    "text": "IẾ Ả AI ẢI IẬ Ờ Ô Ý",
+    "speaker_id": "VIVOSDEV09",
+    "split": "test",
+    "duration": 3.6875
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV09\\VIVOSDEV09_106.wav",
+    "text": "ỒI Ì Ỉ Ộ ỜI IA",
+    "speaker_id": "VIVOSDEV09",
+    "split": "test",
+    "duration": 2.0
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV09\\VIVOSDEV09_110.wav",
+    "text": "I IỆ Ẫ Ậ ẦU Ú UẮ UEO",
+    "speaker_id": "VIVOSDEV09",
+    "split": "test",
+    "duration": 3.625
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV09\\VIVOSDEV09_134.wav",
+    "text": "ÂU Ả ỜI ỦA Ô A Ấ IẾ Ã",
+    "speaker_id": "VIVOSDEV09",
+    "split": "test",
+    "duration": 3.1875
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV09\\VIVOSDEV09_139.wav",
+    "text": "ẾU Ủ ĐẦU Ư Ô Ự Á Ỡ Ì Ị ƯỠ Ế",
+    "speaker_id": "VIVOSDEV09",
+    "split": "test",
+    "duration": 3.5
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV09\\VIVOSDEV09_142.wav",
+    "text": "Ề UYỆ ĐA EO ÕI Ọ IÁ ĐIỆ ƯỚ OÀI",
+    "speaker_id": "VIVOSDEV09",
+    "split": "test",
+    "duration": 3.875
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV09\\VIVOSDEV09_144.wav",
+    "text": "ĐƯỢ Ắ Ừ Ỏ Ă Ộ ĐỘI Ũ ỦA Á Ô Ố A",
+    "speaker_id": "VIVOSDEV09",
+    "split": "test",
+    "duration": 3.9375
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV09\\VIVOSDEV09_158.wav",
+    "text": "Ợ Ấ À ÙA ƯA Ấ É ĐÙ ĐOÀ Ê ÚI",
+    "speaker_id": "VIVOSDEV09",
+    "split": "test",
+    "duration": 3.5625
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV09\\VIVOSDEV09_159.wav",
+    "text": "Ứ ẤY Ụ À Ừ ƠI Ô ẢI ỊU Ự É ÀO ƠI Ư",
+    "speaker_id": "VIVOSDEV09",
+    "split": "test",
+    "duration": 4.3125
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV09\\VIVOSDEV09_163.wav",
+    "text": "ĐIỀU Ô Ù UA Ọ O ỜI ĐẠI Ó UÁ IỀU OẠ ĐỘ",
+    "speaker_id": "VIVOSDEV09",
+    "split": "test",
+    "duration": 4.3125
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV09\\VIVOSDEV09_166.wav",
+    "text": "Í I Ự O Ầ UA Â ĐẾ ĐỘ Ê IẾ Ứ Á Ô",
+    "speaker_id": "VIVOSDEV09",
+    "split": "test",
+    "duration": 4.25
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV09\\VIVOSDEV09_168.wav",
+    "text": "ỖI ƯỜI Ú A Ẽ Ó Ữ Ứ Á AU",
+    "speaker_id": "VIVOSDEV09",
+    "split": "test",
+    "duration": 4.125
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV09\\VIVOSDEV09_178.wav",
+    "text": "À Ậ Í Ạ Ũ Ô Ê Ố Ắ",
+    "speaker_id": "VIVOSDEV09",
+    "split": "test",
+    "duration": 3.0
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV09\\VIVOSDEV09_194.wav",
+    "text": "Ê ẦU ỜI Á Ă Á Ằ Ặ",
+    "speaker_id": "VIVOSDEV09",
+    "split": "test",
+    "duration": 3.28125
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV09\\VIVOSDEV09_198.wav",
+    "text": "À Ổ IÊ ỦA Ô ĐẶ Ê ĐẢ Á IỆ Ẫ ĐƯỜ",
+    "speaker_id": "VIVOSDEV09",
+    "split": "test",
+    "duration": 3.46875
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV09\\VIVOSDEV09_203.wav",
+    "text": "Á Í ƯỜI ƯỜI Ộ",
+    "speaker_id": "VIVOSDEV09",
+    "split": "test",
+    "duration": 2.75
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV09\\VIVOSDEV09_204.wav",
+    "text": "ƯỜI Ộ ƯỜI AI ƯỜI A",
+    "speaker_id": "VIVOSDEV09",
+    "split": "test",
+    "duration": 3.03125
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV09\\VIVOSDEV09_222.wav",
+    "text": "Ă ƯƠI Ă ƯƠI Ố",
+    "speaker_id": "VIVOSDEV09",
+    "split": "test",
+    "duration": 3.1875
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV09\\VIVOSDEV09_246.wav",
+    "text": "Í ƯƠI Á Í ƯƠI Í",
+    "speaker_id": "VIVOSDEV09",
+    "split": "test",
+    "duration": 2.03125
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV09\\VIVOSDEV09_267.wav",
+    "text": "Ă À ĐẰ IA E ÓI Ó A",
+    "speaker_id": "VIVOSDEV09",
+    "split": "test",
+    "duration": 3.1875
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV09\\VIVOSDEV09_268.wav",
+    "text": "Ú Ậ UI ƯA Ừ ƠI ÁI",
+    "speaker_id": "VIVOSDEV09",
+    "split": "test",
+    "duration": 3.59375
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV09\\VIVOSDEV09_280.wav",
+    "text": "UÂ ÀY E Ô Ề",
+    "speaker_id": "VIVOSDEV09",
+    "split": "test",
+    "duration": 3.1875
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV09\\VIVOSDEV09_286.wav",
+    "text": "Ó Ò Ơ Ô",
+    "speaker_id": "VIVOSDEV09",
+    "split": "test",
+    "duration": 1.5
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV09\\VIVOSDEV09_288.wav",
+    "text": "Ắ Ắ ỚI U Ế ĐI U Ị ÔI",
+    "speaker_id": "VIVOSDEV09",
+    "split": "test",
+    "duration": 3.125
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV09\\VIVOSDEV09_289.wav",
+    "text": "ƯƠ Â Ố ỦA ÔI À ƯỜI Ô Ì Ì ỜI U ĐẤ IỆ",
+    "speaker_id": "VIVOSDEV09",
+    "split": "test",
+    "duration": 4.25
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV09\\VIVOSDEV09_293.wav",
+    "text": "Ó Ố Ấ IÊU ỒI Ò ĐÂU",
+    "speaker_id": "VIVOSDEV09",
+    "split": "test",
+    "duration": 2.25
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV09\\VIVOSDEV09_297.wav",
+    "text": "Ế ÀO À OÀ ẢO",
+    "speaker_id": "VIVOSDEV09",
+    "split": "test",
+    "duration": 2.1875
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV10\\VIVOSDEV10_010.wav",
+    "text": "I Ị Ô A Ộ Ổ Ẩ Ấ",
+    "speaker_id": "VIVOSDEV10",
+    "split": "test",
+    "duration": 2.8125
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV10\\VIVOSDEV10_014.wav",
+    "text": "AU I ĐỌ Ữ Ô I Ê ÁO",
+    "speaker_id": "VIVOSDEV10",
+    "split": "test",
+    "duration": 3.0625
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV10\\VIVOSDEV10_017.wav",
+    "text": "A I ẤY À Ì Ế A",
+    "speaker_id": "VIVOSDEV10",
+    "split": "test",
+    "duration": 2.875
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV10\\VIVOSDEV10_020.wav",
+    "text": "IỆ Á Ụ Ả À Á ỖI À Ô Ụ UÉ",
+    "speaker_id": "VIVOSDEV10",
+    "split": "test",
+    "duration": 3.5625
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV10\\VIVOSDEV10_024.wav",
+    "text": "OÀI ỜI ƯA Ứ AY AY Ắ Ạ",
+    "speaker_id": "VIVOSDEV10",
+    "split": "test",
+    "duration": 2.9375
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV10\\VIVOSDEV10_030.wav",
+    "text": "UÔI Ô Ì I OÀ ỒI ẠO A I OÀ ỚI ĐẦY ĐỦ Ì ÀI",
+    "speaker_id": "VIVOSDEV10",
+    "split": "test",
+    "duration": 5.3125
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV10\\VIVOSDEV10_035.wav",
+    "text": "Ó Ể IÚ A UÊ ĐI Ữ ỖI ƯU IỀ",
+    "speaker_id": "VIVOSDEV10",
+    "split": "test",
+    "duration": 2.5625
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV10\\VIVOSDEV10_043.wav",
+    "text": "À U Ă É Ầ AY ĐẤ ỜI",
+    "speaker_id": "VIVOSDEV10",
+    "split": "test",
+    "duration": 2.5
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV10\\VIVOSDEV10_045.wav",
+    "text": "ÔI Ớ Ê O Ự Ẻ Ạ ỦA ƯỜI Ẹ Ế",
+    "speaker_id": "VIVOSDEV10",
+    "split": "test",
+    "duration": 4.28125
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV10\\VIVOSDEV10_051.wav",
+    "text": "U Ă À Ê U",
+    "speaker_id": "VIVOSDEV10",
+    "split": "test",
+    "duration": 1.90625
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV10\\VIVOSDEV10_067.wav",
+    "text": "Ế Ư ÔI Ô Â Ậ I Ở À ĐẢ Ữ",
+    "speaker_id": "VIVOSDEV10",
+    "split": "test",
+    "duration": 3.875
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV10\\VIVOSDEV10_068.wav",
+    "text": "ỚI Ộ Ố ĐỘ À Ú A Ô Ể ĐI ĐẾ Ậ Ù ỦA Ó",
+    "speaker_id": "VIVOSDEV10",
+    "split": "test",
+    "duration": 4.3125
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV10\\VIVOSDEV10_072.wav",
+    "text": "ÔI ẤY ĐỒ ƯƠ ỦA Ì Ă Ă ỒI Ẫ ĐỨ UYÊ",
+    "speaker_id": "VIVOSDEV10",
+    "split": "test",
+    "duration": 4.46875
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV10\\VIVOSDEV10_073.wav",
+    "text": "ĐỂ Ấ Ứ Ạ ẠO À O IA ĐÌ",
+    "speaker_id": "VIVOSDEV10",
+    "split": "test",
+    "duration": 2.9375
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV10\\VIVOSDEV10_076.wav",
+    "text": "À ĐƯỜ Á Ậ Ắ Ắ UA Ă UỐ Á",
+    "speaker_id": "VIVOSDEV10",
+    "split": "test",
+    "duration": 3.75
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV10\\VIVOSDEV10_090.wav",
+    "text": "ỪA ĐƯỢ AO Ặ IẢI ƯỞ À ƯỚ",
+    "speaker_id": "VIVOSDEV10",
+    "split": "test",
+    "duration": 2.71875
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV10\\VIVOSDEV10_117.wav",
+    "text": "ÁI Ó À",
+    "speaker_id": "VIVOSDEV10",
+    "split": "test",
+    "duration": 1.375
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV10\\VIVOSDEV10_129.wav",
+    "text": "ĐIỀU ÀY ĐÚ ỚI ỌI Ấ ĐỘ À O ỌI Ĩ Ự ỦA ĐỜI Ố",
+    "speaker_id": "VIVOSDEV10",
+    "split": "test",
+    "duration": 4.8125
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV10\\VIVOSDEV10_130.wav",
+    "text": "AO Ồ Ồ",
+    "speaker_id": "VIVOSDEV10",
+    "split": "test",
+    "duration": 1.375
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV10\\VIVOSDEV10_140.wav",
+    "text": "À AI Ồ Ồ Ò ẬY Ặ ÀY A É Ư ÀU Á UỐI",
+    "speaker_id": "VIVOSDEV10",
+    "split": "test",
+    "duration": 6.28125
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV10\\VIVOSDEV10_156.wav",
+    "text": "Í Ủ ĐỒ ỜI Ũ Ậ Ê Ụ Ú IẾ IÊU Ụ ẦU Ọ",
+    "speaker_id": "VIVOSDEV10",
+    "split": "test",
+    "duration": 5.5
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV10\\VIVOSDEV10_162.wav",
+    "text": "Ũ À I UI O Ấ Ả Ữ AI",
+    "speaker_id": "VIVOSDEV10",
+    "split": "test",
+    "duration": 3.15625
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV10\\VIVOSDEV10_172.wav",
+    "text": "ƯỢ ĐÃ Ò ẢI ĐIỀU Ỉ",
+    "speaker_id": "VIVOSDEV10",
+    "split": "test",
+    "duration": 2.53125
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV10\\VIVOSDEV10_176.wav",
+    "text": "O Ì Ế ẤY Ỉ ĐÁ Ẻ E Ô",
+    "speaker_id": "VIVOSDEV10",
+    "split": "test",
+    "duration": 3.0625
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV10\\VIVOSDEV10_189.wav",
+    "text": "ẾU ĐI IẾ A A",
+    "speaker_id": "VIVOSDEV10",
+    "split": "test",
+    "duration": 1.75
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV10\\VIVOSDEV10_194.wav",
+    "text": "Ứ A Ó Ể Ị ĐƯỢ Ệ",
+    "speaker_id": "VIVOSDEV10",
+    "split": "test",
+    "duration": 3.375
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV10\\VIVOSDEV10_196.wav",
+    "text": "Ỉ UỐ À Ộ ƠI O ĐÃ ÁI IỆ",
+    "speaker_id": "VIVOSDEV10",
+    "split": "test",
+    "duration": 2.875
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV10\\VIVOSDEV10_211.wav",
+    "text": "AI ƯƠI Á AI ƯƠI Í",
+    "speaker_id": "VIVOSDEV10",
+    "split": "test",
+    "duration": 2.3125
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV10\\VIVOSDEV10_212.wav",
+    "text": "A ƯƠI A ƯƠI Ố",
+    "speaker_id": "VIVOSDEV10",
+    "split": "test",
+    "duration": 2.0
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV10\\VIVOSDEV10_227.wav",
+    "text": "ÁU ƯƠI ÁU ƯƠI Ố",
+    "speaker_id": "VIVOSDEV10",
+    "split": "test",
+    "duration": 1.59375
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV10\\VIVOSDEV10_234.wav",
+    "text": "ẢY ƯƠI Ố ẢY ƯƠI Ă",
+    "speaker_id": "VIVOSDEV10",
+    "split": "test",
+    "duration": 1.9375
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV10\\VIVOSDEV10_239.wav",
+    "text": "Á ƯƠI Ố Á ƯƠI Ă",
+    "speaker_id": "VIVOSDEV10",
+    "split": "test",
+    "duration": 1.875
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV10\\VIVOSDEV10_245.wav",
+    "text": "Í ƯƠI ÁU Í ƯƠI ẢY",
+    "speaker_id": "VIVOSDEV10",
+    "split": "test",
+    "duration": 1.65625
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV10\\VIVOSDEV10_247.wav",
+    "text": "Ộ Ă Ộ AI A",
+    "speaker_id": "VIVOSDEV10",
+    "split": "test",
+    "duration": 1.8125
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV10\\VIVOSDEV10_249.wav",
+    "text": "Ô AI Ố ÁU Á",
+    "speaker_id": "VIVOSDEV10",
+    "split": "test",
+    "duration": 2.15625
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV10\\VIVOSDEV10_257.wav",
+    "text": "IỀ ĐIỆ Á ÀY AO IÊU",
+    "speaker_id": "VIVOSDEV10",
+    "split": "test",
+    "duration": 2.1875
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV10\\VIVOSDEV10_262.wav",
+    "text": "UA A IỆ Ạ OÁ À AO",
+    "speaker_id": "VIVOSDEV10",
+    "split": "test",
+    "duration": 2.75
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV10\\VIVOSDEV10_266.wav",
+    "text": "Ừ Ê Ó À Ì UỐ Ó Á",
+    "speaker_id": "VIVOSDEV10",
+    "split": "test",
+    "duration": 2.6875
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV10\\VIVOSDEV10_278.wav",
+    "text": "ỘI IỆ ĐỨA Ỏ Ô AI Ă Ó",
+    "speaker_id": "VIVOSDEV10",
+    "split": "test",
+    "duration": 2.4375
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV10\\VIVOSDEV10_294.wav",
+    "text": "E Ợ Ó Ộ ÀY A Ặ ƯỜI O ÁI Á Ố Ơ E ỒI A Ỏ E",
+    "speaker_id": "VIVOSDEV10",
+    "split": "test",
+    "duration": 5.78125
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV11\\VIVOSDEV11_015.wav",
+    "text": "Ữ IỄ IÊ I ĐẸ Ạ Ă Ă",
+    "speaker_id": "VIVOSDEV11",
+    "split": "test",
+    "duration": 2.6875
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV11\\VIVOSDEV11_022.wav",
+    "text": "Ẽ À IẢ Ì Ạ ÓI Ọ ỦA Ẻ",
+    "speaker_id": "VIVOSDEV11",
+    "split": "test",
+    "duration": 2.75
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV11\\VIVOSDEV11_033.wav",
+    "text": "À ẢI E ÁI Ở Ạ Ê Ô À A UỘ",
+    "speaker_id": "VIVOSDEV11",
+    "split": "test",
+    "duration": 3.09375
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV11\\VIVOSDEV11_036.wav",
+    "text": "ÔI Ó Ể Ă IẬ ĐỦ Ứ",
+    "speaker_id": "VIVOSDEV11",
+    "split": "test",
+    "duration": 2.25
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV11\\VIVOSDEV11_038.wav",
+    "text": "À ẢI UYỂ UA Ì Ứ IAO Ị",
+    "speaker_id": "VIVOSDEV11",
+    "split": "test",
+    "duration": 2.3125
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV11\\VIVOSDEV11_046.wav",
+    "text": "ĐỪ AO IỜ ĐỂ O Ấ Ỳ AI ÓI ỚI Ạ Ằ",
+    "speaker_id": "VIVOSDEV11",
+    "split": "test",
+    "duration": 3.84375
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV11\\VIVOSDEV11_048.wav",
+    "text": "À Ó ĐÔI Ệ AO Ổ ỦA Ự Â UÂ",
+    "speaker_id": "VIVOSDEV11",
+    "split": "test",
+    "duration": 3.34375
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV11\\VIVOSDEV11_057.wav",
+    "text": "ẾU Ì Ú ÔI",
+    "speaker_id": "VIVOSDEV11",
+    "split": "test",
+    "duration": 2.15625
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV11\\VIVOSDEV11_063.wav",
+    "text": "ẾU Ạ Ẫ Ả ẤY ỘI ỖI",
+    "speaker_id": "VIVOSDEV11",
+    "split": "test",
+    "duration": 2.75
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV11\\VIVOSDEV11_075.wav",
+    "text": "ÃI ẦU Ắ IÓ ƯỜ Ơ",
+    "speaker_id": "VIVOSDEV11",
+    "split": "test",
+    "duration": 3.0625
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV11\\VIVOSDEV11_076.wav",
+    "text": "ỚI Ê À ÚI À ƯỚI À Ô",
+    "speaker_id": "VIVOSDEV11",
+    "split": "test",
+    "duration": 3.375
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV11\\VIVOSDEV11_077.wav",
+    "text": "ỚI Ự UẤ IỆ ỦA UÁI Ú À Ồ",
+    "speaker_id": "VIVOSDEV11",
+    "split": "test",
+    "duration": 3.875
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV11\\VIVOSDEV11_079.wav",
+    "text": "É Ặ Ọ Ô ỜI Ê Ạ Ú ỦA ƯỜI Ẹ",
+    "speaker_id": "VIVOSDEV11",
+    "split": "test",
+    "duration": 3.5625
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV11\\VIVOSDEV11_081.wav",
+    "text": "Ộ Ố ƯỜI O Ằ",
+    "speaker_id": "VIVOSDEV11",
+    "split": "test",
+    "duration": 2.375
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV11\\VIVOSDEV11_083.wav",
+    "text": "Ộ I IÊ ĐƯỢ AY Ố Í Ụ Ọ Ậ",
+    "speaker_id": "VIVOSDEV11",
+    "split": "test",
+    "duration": 3.625
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV11\\VIVOSDEV11_095.wav",
+    "text": "ỌI Ứ ĐỀU ĐƯỢ Ổ Ẻ ẠI",
+    "speaker_id": "VIVOSDEV11",
+    "split": "test",
+    "duration": 3.25
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV11\\VIVOSDEV11_122.wav",
+    "text": "Ô ẢI Ắ U",
+    "speaker_id": "VIVOSDEV11",
+    "split": "test",
+    "duration": 1.875
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV11\\VIVOSDEV11_123.wav",
+    "text": "Á Ô Y U Ị ẢI Á ĐỊ",
+    "speaker_id": "VIVOSDEV11",
+    "split": "test",
+    "duration": 2.875
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV11\\VIVOSDEV11_129.wav",
+    "text": "ĐI Ộ EO ÚI ĐẾ Ừ Â",
+    "speaker_id": "VIVOSDEV11",
+    "split": "test",
+    "duration": 2.875
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV11\\VIVOSDEV11_131.wav",
+    "text": "Ì Ủ ĐẦU Ư ẢI Ự Á Ỡ Ầ ỘI U AI É ĐÓ",
+    "speaker_id": "VIVOSDEV11",
+    "split": "test",
+    "duration": 5.375
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV11\\VIVOSDEV11_136.wav",
+    "text": "I Â IÊ ỨU Ộ Ố Ắ ĐƯA Ó Ê À A",
+    "speaker_id": "VIVOSDEV11",
+    "split": "test",
+    "duration": 4.6875
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV11\\VIVOSDEV11_137.wav",
+    "text": "Ữ ƯỜI ÀY ĐỀU ĐƯỢ ĐÀO ẠO Ề ỘI ỌA",
+    "speaker_id": "VIVOSDEV11",
+    "split": "test",
+    "duration": 3.5625
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV11\\VIVOSDEV11_147.wav",
+    "text": "Ắ Ô I Ộ ĐÁ Ó Á AY ÈO Ú ÙA UA ĐẦY Ổ",
+    "speaker_id": "VIVOSDEV11",
+    "split": "test",
+    "duration": 6.21875
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV11\\VIVOSDEV11_160.wav",
+    "text": "Ụ Ấ Ò A",
+    "speaker_id": "VIVOSDEV11",
+    "split": "test",
+    "duration": 2.5
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV11\\VIVOSDEV11_164.wav",
+    "text": "Í Ấ Ở Ơ A ƯƠI ƯỜ UỘ Á ĐỊA ƯƠ ÓI Ê",
+    "speaker_id": "VIVOSDEV11",
+    "split": "test",
+    "duration": 5.375
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV11\\VIVOSDEV11_182.wav",
+    "text": "ĐẶ ĐIỂ ỦA ẨY Ù Ả",
+    "speaker_id": "VIVOSDEV11",
+    "split": "test",
+    "duration": 2.75
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV11\\VIVOSDEV11_193.wav",
+    "text": "Ì A ĐÊ Ị Ủ Ô O",
+    "speaker_id": "VIVOSDEV11",
+    "split": "test",
+    "duration": 2.6875
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV11\\VIVOSDEV11_198.wav",
+    "text": "Ơ Ử Ê ĐẦU À Ữ IẾ ẪY ĐÁ À Ă ỐI",
+    "speaker_id": "VIVOSDEV11",
+    "split": "test",
+    "duration": 4.8125
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV11\\VIVOSDEV11_200.wav",
+    "text": "Ă ĐẦU IÊ",
+    "speaker_id": "VIVOSDEV11",
+    "split": "test",
+    "duration": 2.21875
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV11\\VIVOSDEV11_234.wav",
+    "text": "ẢY ƯƠI Ố ẢY ƯƠI Ă",
+    "speaker_id": "VIVOSDEV11",
+    "split": "test",
+    "duration": 3.0625
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV11\\VIVOSDEV11_242.wav",
+    "text": "Í ƯƠI Í ƯƠI Ố",
+    "speaker_id": "VIVOSDEV11",
+    "split": "test",
+    "duration": 2.875
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV11\\VIVOSDEV11_246.wav",
+    "text": "Í ƯƠI Á Í ƯƠI Í",
+    "speaker_id": "VIVOSDEV11",
+    "split": "test",
+    "duration": 2.6875
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV11\\VIVOSDEV11_252.wav",
+    "text": "ÂY IỜ ƯỚ IỀU UÁ ĐI ĐƯỜ Ũ ẤY Ợ",
+    "speaker_id": "VIVOSDEV11",
+    "split": "test",
+    "duration": 4.34375
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV11\\VIVOSDEV11_262.wav",
+    "text": "Ì U Ủ IẾ Â Ằ ƯỚ Ọ Ạ Â",
+    "speaker_id": "VIVOSDEV11",
+    "split": "test",
+    "duration": 3.8125
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV11\\VIVOSDEV11_269.wav",
+    "text": "Ú ÔI YÊU AU ĐƯỢ AI Ă Ì IA ĐÌ ÔI ẢY A UYỆ",
+    "speaker_id": "VIVOSDEV11",
+    "split": "test",
+    "duration": 4.65625
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV11\\VIVOSDEV11_273.wav",
+    "text": "Ọ ÀI Ạ Ẻ ĐỎ",
+    "speaker_id": "VIVOSDEV11",
+    "split": "test",
+    "duration": 2.6875
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV11\\VIVOSDEV11_274.wav",
+    "text": "IỂU ÀY Ắ ẢI Ắ IẢ IÊ Ế",
+    "speaker_id": "VIVOSDEV11",
+    "split": "test",
+    "duration": 3.03125
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV11\\VIVOSDEV11_282.wav",
+    "text": "ÔI Ì Ứ Ắ Ế Ư ẬY",
+    "speaker_id": "VIVOSDEV11",
+    "split": "test",
+    "duration": 3.0625
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV11\\VIVOSDEV11_289.wav",
+    "text": "EO Ó Ủ Ị ỦY A A OÀ IAO Ô UỐ IA",
+    "speaker_id": "VIVOSDEV11",
+    "split": "test",
+    "duration": 4.84375
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV11\\VIVOSDEV11_298.wav",
+    "text": "UẨ Ị O ÀY AI ƯƠ ỬA À ĐẦU IÊ",
+    "speaker_id": "VIVOSDEV11",
+    "split": "test",
+    "duration": 3.90625
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV12\\VIVOSDEV12_006.wav",
+    "text": "Ừ Ự Ư ỪA UÁ Ứ ỦA UỒ IỀ ÀY",
+    "speaker_id": "VIVOSDEV12",
+    "split": "test",
+    "duration": 4.125
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV12\\VIVOSDEV12_011.wav",
+    "text": "ĐÓ Ứ Ỏ Ằ Ú A ĐÃ IÀ",
+    "speaker_id": "VIVOSDEV12",
+    "split": "test",
+    "duration": 3.28125
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV12\\VIVOSDEV12_015.wav",
+    "text": "Ả ẠI ĐẤ O Ừ",
+    "speaker_id": "VIVOSDEV12",
+    "split": "test",
+    "duration": 2.5625
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV12\\VIVOSDEV12_032.wav",
+    "text": "Á OẠI ÂY Ồ Ở Ừ ÀY OÀ ÂY É IÁ Ị",
+    "speaker_id": "VIVOSDEV12",
+    "split": "test",
+    "duration": 4.28125
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV12\\VIVOSDEV12_054.wav",
+    "text": "IẾU Ự UA Â ĐÚ Ứ Ừ Á Ơ UA Ứ Ă",
+    "speaker_id": "VIVOSDEV12",
+    "split": "test",
+    "duration": 4.875
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV12\\VIVOSDEV12_056.wav",
+    "text": "ẠI Ợ Á",
+    "speaker_id": "VIVOSDEV12",
+    "split": "test",
+    "duration": 2.96875
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV12\\VIVOSDEV12_057.wav",
+    "text": "Ô ẢI Ì ÔI Ô OI Ọ Ấ ƯỢ",
+    "speaker_id": "VIVOSDEV12",
+    "split": "test",
+    "duration": 4.3125
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV12\\VIVOSDEV12_065.wav",
+    "text": "Ì ĐỌ ĐƯỢ ỒI Ý Ô Ể UỘ ỖI Ê ÁO UỔI Ẻ",
+    "speaker_id": "VIVOSDEV12",
+    "split": "test",
+    "duration": 4.5
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV12\\VIVOSDEV12_066.wav",
+    "text": "IẾU ƯỚ Ạ UÝ Ọ O IẾ",
+    "speaker_id": "VIVOSDEV12",
+    "split": "test",
+    "duration": 3.375
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV12\\VIVOSDEV12_068.wav",
+    "text": "Ô Ộ Ú ẦY ỤA À ĐỀ ÁI Ì",
+    "speaker_id": "VIVOSDEV12",
+    "split": "test",
+    "duration": 3.125
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV12\\VIVOSDEV12_071.wav",
+    "text": "Ó ĐƯỢ ĐẶ O Ộ Ộ ĐỰ A Ứ Ọ A ĐỎ",
+    "speaker_id": "VIVOSDEV12",
+    "split": "test",
+    "duration": 3.9375
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV12\\VIVOSDEV12_075.wav",
+    "text": "Ó A O Ẻ IỄ IỂU Ẩ ÀI Ắ Ạ A Ù",
+    "speaker_id": "VIVOSDEV12",
+    "split": "test",
+    "duration": 4.90625
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV12\\VIVOSDEV12_076.wav",
+    "text": "Ớ ĐI IẾ À Ọ ỒI Ư Ó UÁ",
+    "speaker_id": "VIVOSDEV12",
+    "split": "test",
+    "duration": 3.5625
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV12\\VIVOSDEV12_079.wav",
+    "text": "A Ỏ ƯỢ À E ĐƯỜ",
+    "speaker_id": "VIVOSDEV12",
+    "split": "test",
+    "duration": 3.3125
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV12\\VIVOSDEV12_080.wav",
+    "text": "Í Ứ ĐÃ ÂY A A Ê OÀI",
+    "speaker_id": "VIVOSDEV12",
+    "split": "test",
+    "duration": 3.53125
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV12\\VIVOSDEV12_100.wav",
+    "text": "Ụ UY À Ọ I ĐA ẢI È Ổ Ì Á IÁ AO",
+    "speaker_id": "VIVOSDEV12",
+    "split": "test",
+    "duration": 4.8125
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV12\\VIVOSDEV12_101.wav",
+    "text": "I Í Ủ Ú ĐẦU ĐỀ Ị Â Á O Ữ ƯỜI ỔI ẬY",
+    "speaker_id": "VIVOSDEV12",
+    "split": "test",
+    "duration": 4.875
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV12\\VIVOSDEV12_116.wav",
+    "text": "ƯỚI Á ĐÈ Ờ Ờ ẢO ẢO",
+    "speaker_id": "VIVOSDEV12",
+    "split": "test",
+    "duration": 2.84375
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV12\\VIVOSDEV12_128.wav",
+    "text": "O UỘ Ỏ IẾU ẠI ỘI ĐỒ ẢO A AI ÀY ƯỚ ĐÓ",
+    "speaker_id": "VIVOSDEV12",
+    "split": "test",
+    "duration": 3.96875
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV12\\VIVOSDEV12_132.wav",
+    "text": "ẦU Ế Ữ Ấ ĐỀ ẢY A Ê Ế IỚI",
+    "speaker_id": "VIVOSDEV12",
+    "split": "test",
+    "duration": 3.3125
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV12\\VIVOSDEV12_135.wav",
+    "text": "Ô ĐƯỢ IỀU ƯỜI IẾ ĐẾ",
+    "speaker_id": "VIVOSDEV12",
+    "split": "test",
+    "duration": 2.5
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV12\\VIVOSDEV12_144.wav",
+    "text": "Ả ỜI ÔI IẾ",
+    "speaker_id": "VIVOSDEV12",
+    "split": "test",
+    "duration": 2.0625
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV12\\VIVOSDEV12_166.wav",
+    "text": "Ị Ã O ÉO Ụ Ị",
+    "speaker_id": "VIVOSDEV12",
+    "split": "test",
+    "duration": 2.6875
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV12\\VIVOSDEV12_169.wav",
+    "text": "ÁO Á ƯƠ ƯƠ",
+    "speaker_id": "VIVOSDEV12",
+    "split": "test",
+    "duration": 2.3125
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV12\\VIVOSDEV12_173.wav",
+    "text": "ĐỐI ỚI Ữ Ả Ứ Á IỆ ĐÓ",
+    "speaker_id": "VIVOSDEV12",
+    "split": "test",
+    "duration": 2.78125
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV12\\VIVOSDEV12_182.wav",
+    "text": "À ĐÃ IẾ ÁU A Ầ",
+    "speaker_id": "VIVOSDEV12",
+    "split": "test",
+    "duration": 2.5625
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV12\\VIVOSDEV12_186.wav",
+    "text": "IẾ É ĐỒ A ỦA ẤY Ụ O ƯỜI",
+    "speaker_id": "VIVOSDEV12",
+    "split": "test",
+    "duration": 3.3125
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV12\\VIVOSDEV12_192.wav",
+    "text": "A Ứ AI ỦA Ờ ÁO",
+    "speaker_id": "VIVOSDEV12",
+    "split": "test",
+    "duration": 2.75
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV12\\VIVOSDEV12_197.wav",
+    "text": "AU ĐÓ À À Ó Í Ì ỞI ỞI ẠY UA Ể ỚI ÔI",
+    "speaker_id": "VIVOSDEV12",
+    "split": "test",
+    "duration": 4.6875
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV12\\VIVOSDEV12_213.wav",
+    "text": "A ƯƠI AI A ƯƠI A",
+    "speaker_id": "VIVOSDEV12",
+    "split": "test",
+    "duration": 2.84375
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV12\\VIVOSDEV12_223.wav",
+    "text": "Ă ƯƠI AI Ă ƯƠI A",
+    "speaker_id": "VIVOSDEV12",
+    "split": "test",
+    "duration": 2.8125
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV12\\VIVOSDEV12_224.wav",
+    "text": "Ă ƯƠI Ố Ă ƯƠI Ă",
+    "speaker_id": "VIVOSDEV12",
+    "split": "test",
+    "duration": 2.8125
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV12\\VIVOSDEV12_227.wav",
+    "text": "ÁU ƯƠI ÁU ƯƠI Ố",
+    "speaker_id": "VIVOSDEV12",
+    "split": "test",
+    "duration": 2.53125
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV12\\VIVOSDEV12_232.wav",
+    "text": "ẢY ƯƠI ẢY ƯƠI Ố",
+    "speaker_id": "VIVOSDEV12",
+    "split": "test",
+    "duration": 2.4375
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV12\\VIVOSDEV12_244.wav",
+    "text": "Í ƯƠI Ố Í ƯƠI Ă",
+    "speaker_id": "VIVOSDEV12",
+    "split": "test",
+    "duration": 2.6875
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV12\\VIVOSDEV12_248.wav",
+    "text": "Ộ A Ă ẢY Í",
+    "speaker_id": "VIVOSDEV12",
+    "split": "test",
+    "duration": 4.625
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV12\\VIVOSDEV12_271.wav",
+    "text": "À O A Í À ĐÀO ĐỂ UẨ Ị ĐÓ Ế",
+    "speaker_id": "VIVOSDEV12",
+    "split": "test",
+    "duration": 3.96875
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV12\\VIVOSDEV12_275.wav",
+    "text": "ÔI Ô ẤY Ì À ĐÚ I Ă IÁ E ÀO Á Ị Ế",
+    "speaker_id": "VIVOSDEV12",
+    "split": "test",
+    "duration": 4.59375
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV12\\VIVOSDEV12_280.wav",
+    "text": "U Ị Ẽ Ở À À I Ế ŨI Ọ",
+    "speaker_id": "VIVOSDEV12",
+    "split": "test",
+    "duration": 3.125
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV12\\VIVOSDEV12_290.wav",
+    "text": "Ừ I Ồ UA ĐỜI Ì Ệ Ậ",
+    "speaker_id": "VIVOSDEV12",
+    "split": "test",
+    "duration": 3.75
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV13\\VIVOSDEV13_019.wav",
+    "text": "ĐƠ Ị Ì Ô E AI ÓI Ì ƯA Ẳ ĐÃ Ố",
+    "speaker_id": "VIVOSDEV13",
+    "split": "test",
+    "duration": 4.124375
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV13\\VIVOSDEV13_026.wav",
+    "text": "Ô AI ĐƯỢ ƯỢ ĐÃI Á E Ì Á E Ọ Ậ",
+    "speaker_id": "VIVOSDEV13",
+    "split": "test",
+    "duration": 4.186875
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV13\\VIVOSDEV13_054.wav",
+    "text": "IÀ À UYỄ Ạ ƯỜ Ả ỜI Ỏ Ấ ÁO IỚI Ả U Â",
+    "speaker_id": "VIVOSDEV13",
+    "split": "test",
+    "duration": 5.624375
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV13\\VIVOSDEV13_058.wav",
+    "text": "ĐÓ À IAI ĐOẠ ỜI IẾ Í IẾ ĐỘ À IỆ ĐỘ Ô UÁ Ấ",
+    "speaker_id": "VIVOSDEV13",
+    "split": "test",
+    "duration": 4.343125
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV13\\VIVOSDEV13_061.wav",
+    "text": "Ư AU E O ÓI A ÓI ÀO ẠI Á Ả ỚI E",
+    "speaker_id": "VIVOSDEV13",
+    "split": "test",
+    "duration": 4.124375
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV13\\VIVOSDEV13_069.wav",
+    "text": "Ữ ĐIẾU UỐ Ô Ý ĐỐ ÁY ÀI Ỗ Ê IẾ Ô A Ọ ẢI",
+    "speaker_id": "VIVOSDEV13",
+    "split": "test",
+    "duration": 4.999375
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV13\\VIVOSDEV13_075.wav",
+    "text": "Ạ Ó Ể Ắ ƯƠ Ì ĐÓ ĐI À Ự IỆ AO Á UỐI Ù",
+    "speaker_id": "VIVOSDEV13",
+    "split": "test",
+    "duration": 4.374375
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV13\\VIVOSDEV13_078.wav",
+    "text": "Ắ ƠI UA Ú ÔI ƯƠ ÃI Á Ế ỦA ƯỜI Â Ô ỘI",
+    "speaker_id": "VIVOSDEV13",
+    "split": "test",
+    "duration": 4.561875
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV13\\VIVOSDEV13_088.wav",
+    "text": "Ữ IẾ Ồ ĐÈ ĐỒ ƠI IỆ Ẫ Ặ Ẽ A Ồ IỆ UỐ Ố",
+    "speaker_id": "VIVOSDEV13",
+    "split": "test",
+    "duration": 5.030625
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV13\\VIVOSDEV13_089.wav",
+    "text": "À Ă UYÊ Ọ I IÊ Ó UYỀ OÀI I À A ÃI",
+    "speaker_id": "VIVOSDEV13",
+    "split": "test",
+    "duration": 6.436875
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV13\\VIVOSDEV13_097.wav",
+    "text": "UỘ I Ò Ó AI IẢI Ì A IẢI A À Ố IẢI UYẾ Í",
+    "speaker_id": "VIVOSDEV13",
+    "split": "test",
+    "duration": 7.374375
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV13\\VIVOSDEV13_098.wav",
+    "text": "ẦU Ư Á Ả Ứ Ụ Ặ Ề À Ấ IẾ Ặ",
+    "speaker_id": "VIVOSDEV13",
+    "split": "test",
+    "duration": 4.249375
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV13\\VIVOSDEV13_104.wav",
+    "text": "Ố IỀ UÁ Ớ IẾ IA ĐÌ ƯƠ Ạ À Ê OÁ Á",
+    "speaker_id": "VIVOSDEV13",
+    "split": "test",
+    "duration": 4.374375
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV13\\VIVOSDEV13_105.wav",
+    "text": "Ó ĐỎ Ặ ÍA AI Ó UA Ị Ộ UỔI ÔI ĐẤY",
+    "speaker_id": "VIVOSDEV13",
+    "split": "test",
+    "duration": 7.843125
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV13\\VIVOSDEV13_106.wav",
+    "text": "Ả IÁ ĐƯỢ IA Ẻ ỚI Ạ ĐỜI Ù Ở Í Ú Ị Ắ",
+    "speaker_id": "VIVOSDEV13",
+    "split": "test",
+    "duration": 4.561875
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV13\\VIVOSDEV13_136.wav",
+    "text": "ÔI ÀO UẦY IẢI Á ĐẦU IÊ À ỌI Ộ Ố ƯỚ A",
+    "speaker_id": "VIVOSDEV13",
+    "split": "test",
+    "duration": 4.249375
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV13\\VIVOSDEV13_137.wav",
+    "text": "Ẹ Ầ AY O Í À ẤY A IẾ O Ì",
+    "speaker_id": "VIVOSDEV13",
+    "split": "test",
+    "duration": 3.249375
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV13\\VIVOSDEV13_139.wav",
+    "text": "IÊU Ư O ẠY Ố ỎI I À ĐỂ Ì U Ủ Ậ Ự",
+    "speaker_id": "VIVOSDEV13",
+    "split": "test",
+    "duration": 4.124375
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV13\\VIVOSDEV13_146.wav",
+    "text": "Ó ÀY Á Á Ĩ ĐIỀU ƯỠ Ổ Ắ O À Ă ƯỜI Ù ÈO",
+    "speaker_id": "VIVOSDEV13",
+    "split": "test",
+    "duration": 5.124375
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV13\\VIVOSDEV13_147.wav",
+    "text": "Ô AI UỐ Ó IÊU Ự Ả À Ũ ĐỪ UYỆ ĐỐI ÓA Ấ ĐỀ",
+    "speaker_id": "VIVOSDEV13",
+    "split": "test",
+    "duration": 4.593125
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV13\\VIVOSDEV13_150.wav",
+    "text": "Ợ Ắ Ị Ầ A ƯỚI A Á ĐỂ IỀU Ả",
+    "speaker_id": "VIVOSDEV13",
+    "split": "test",
+    "duration": 4.124375
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV13\\VIVOSDEV13_164.wav",
+    "text": "IỆ Ơ UA Ứ Ă ĐA IẾ Ụ ĐIỀU A Ụ IỆ",
+    "speaker_id": "VIVOSDEV13",
+    "split": "test",
+    "duration": 3.655625
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV13\\VIVOSDEV13_167.wav",
+    "text": "I Ị Á IỆ Ọ ĐÃ Ả ỜI Ư Ế ÀO",
+    "speaker_id": "VIVOSDEV13",
+    "split": "test",
+    "duration": 3.843125
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV13\\VIVOSDEV13_210.wav",
+    "text": "À OÁ Ấ ƯỢ Ô Ì ÂY Ự Ê Ả ƯỚ",
+    "speaker_id": "VIVOSDEV13",
+    "split": "test",
+    "duration": 3.311875
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV13\\VIVOSDEV13_211.wav",
+    "text": "Ô Ả ĨA I Ằ Ẽ Ó Ộ IẢI Á ÀO ĐÓ",
+    "speaker_id": "VIVOSDEV13",
+    "split": "test",
+    "duration": 3.686875
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV13\\VIVOSDEV13_222.wav",
+    "text": "Ẹ Ũ ĐÃ Ừ Ố Ổ UYỆ Ọ À Ô ĐƠ Ư ẬY",
+    "speaker_id": "VIVOSDEV13",
+    "split": "test",
+    "duration": 3.718125
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV13\\VIVOSDEV13_225.wav",
+    "text": "AI OẠI Ă ÀY Ê ĐƯỢ OI Ọ Ư AU O Á Ỳ I",
+    "speaker_id": "VIVOSDEV13",
+    "split": "test",
+    "duration": 3.686875
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV13\\VIVOSDEV13_226.wav",
+    "text": "ẬY ỚI Ó Ụ IÊU ĐỂ À Ấ ĐẤU Ê ƯỜI Ó Ý Ứ",
+    "speaker_id": "VIVOSDEV13",
+    "split": "test",
+    "duration": 3.593125
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV13\\VIVOSDEV13_227.wav",
+    "text": "ẠI ĐÂY Ó Ộ Ô ƯỞ Ò Â Ự Ô Y",
+    "speaker_id": "VIVOSDEV13",
+    "split": "test",
+    "duration": 3.249375
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV13\\VIVOSDEV13_230.wav",
+    "text": "Ỉ Ộ ĐIỀU ĐƠ IẢ ẬY À A ẤY Ô AO IỜ Ự IỆ ĐƯỢ",
+    "speaker_id": "VIVOSDEV13",
+    "split": "test",
+    "duration": 4.186875
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV13\\VIVOSDEV13_239.wav",
+    "text": "Ẳ Ầ Ì Ề ƯƠ ÂY UÊ ƯƠ ỦA À IỆU",
+    "speaker_id": "VIVOSDEV13",
+    "split": "test",
+    "duration": 3.124375
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV13\\VIVOSDEV13_241.wav",
+    "text": "ÙA ĐÔ Ả Á ĐỒ UYỂ A Ộ ÀU À Ự",
+    "speaker_id": "VIVOSDEV13",
+    "split": "test",
+    "duration": 2.624375
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV13\\VIVOSDEV13_252.wav",
+    "text": "ÔI Ọ Ù ỚI Á A Ị À IỆ UYÊ Ề Ả UẤ Ầ Ề",
+    "speaker_id": "VIVOSDEV13",
+    "split": "test",
+    "duration": 3.936875
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV13\\VIVOSDEV13_255.wav",
+    "text": "Ó Ẽ ĐÂY À ỜI UẢ ÁO Ô Ô AY Ấ O U Ị ÀO",
+    "speaker_id": "VIVOSDEV13",
+    "split": "test",
+    "duration": 4.124375
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV13\\VIVOSDEV13_257.wav",
+    "text": "Ừ ĐÓ ĐẾ AY IA ĐÌ Ị Ẫ Ố O Ă À Ụ Ụ",
+    "speaker_id": "VIVOSDEV13",
+    "split": "test",
+    "duration": 3.561875
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV13\\VIVOSDEV13_258.wav",
+    "text": "Ạ Ầ U Ự ỚI Â IÊ ỦA Ì O ỌI OÀ Ả",
+    "speaker_id": "VIVOSDEV13",
+    "split": "test",
+    "duration": 3.186875
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV13\\VIVOSDEV13_263.wav",
+    "text": "Ộ Ố ĐIỂ ƯỚ U ĐẾ ĐÂU AY ƠI Ế ĐẾ ĐÓ",
+    "speaker_id": "VIVOSDEV13",
+    "split": "test",
+    "duration": 3.186875
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV13\\VIVOSDEV13_267.wav",
+    "text": "O ẬY Ấ ĐỀ U Ú Ố Ế Ệ Ả IỆ AY Ấ Ó",
+    "speaker_id": "VIVOSDEV13",
+    "split": "test",
+    "duration": 3.936875
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV13\\VIVOSDEV13_276.wav",
+    "text": "ĐÓ À ÂU ỎI À ĐẾ AY Ẫ ƯA Ó ÂU Ả ỜI",
+    "speaker_id": "VIVOSDEV13",
+    "split": "test",
+    "duration": 3.124375
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV13\\VIVOSDEV13_277.wav",
+    "text": "À ỘI Ở Ộ U Ự Ồ ÂY Ô Ồ Ê À U Ự Ĩ",
+    "speaker_id": "VIVOSDEV13",
+    "split": "test",
+    "duration": 3.968125
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV14\\VIVOSDEV14_018.wav",
+    "text": "IÊ Ế ÀY À A ỌI À A A UỐ Ạ",
+    "speaker_id": "VIVOSDEV14",
+    "split": "test",
+    "duration": 3.124375
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV14\\VIVOSDEV14_022.wav",
+    "text": "Ơ À Ẫ Ắ Á E EO Ủ Ý ỦA IÁO IÊ",
+    "speaker_id": "VIVOSDEV14",
+    "split": "test",
+    "duration": 2.999375
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV14\\VIVOSDEV14_027.wav",
+    "text": "Ạ Ó Ể A ẢO Ộ Ơ YẾU Ý Ị ĐIỆ Ử AU ĐÂY",
+    "speaker_id": "VIVOSDEV14",
+    "split": "test",
+    "duration": 5.061875
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV14\\VIVOSDEV14_035.wav",
+    "text": "Ạ Ĩ A ỐI ỚI A Ú UÂ À UỔI Ẻ",
+    "speaker_id": "VIVOSDEV14",
+    "split": "test",
+    "duration": 3.311875
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV14\\VIVOSDEV14_079.wav",
+    "text": "ẬY AI Ẽ ỊU Á IỆ Ề Ữ ƯỜ Ợ ÀY",
+    "speaker_id": "VIVOSDEV14",
+    "split": "test",
+    "duration": 3.374375
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV14\\VIVOSDEV14_080.wav",
+    "text": "UY ÍA ƯỚ Ò Ô À Ó Ă ĐỐI ỚI O",
+    "speaker_id": "VIVOSDEV14",
+    "split": "test",
+    "duration": 4.124375
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV14\\VIVOSDEV14_085.wav",
+    "text": "Ố Ă ỜI Ị Â Ộ Ì ỚI Ó Ì IỀU E ÒA Ó",
+    "speaker_id": "VIVOSDEV14",
+    "split": "test",
+    "duration": 4.811875
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV14\\VIVOSDEV14_086.wav",
+    "text": "E Ợ Ấ A ẤY Ư ẠI Ả ẤY Ì Ị Ú Ạ",
+    "speaker_id": "VIVOSDEV14",
+    "split": "test",
+    "duration": 3.186875
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV14\\VIVOSDEV14_093.wav",
+    "text": "Ò ĐÙA ĐỐI ỚI ẦY Ư ẠI À Â Ậ Â Ậ ỚI Ộ ƯỜI",
+    "speaker_id": "VIVOSDEV14",
+    "split": "test",
+    "duration": 4.374375
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV14\\VIVOSDEV14_104.wav",
+    "text": "ĐÓ À Ậ É U ỦA IỀU Ổ IÁ ĐỐ ĐIỀU À ÀY AY",
+    "speaker_id": "VIVOSDEV14",
+    "split": "test",
+    "duration": 4.343125
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV14\\VIVOSDEV14_108.wav",
+    "text": "ƯỜI Á ĐÃ ĐỒ Ý ỚI Á UẢ Ý Ĩ Ự À IÊ",
+    "speaker_id": "VIVOSDEV14",
+    "split": "test",
+    "duration": 2.905625
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV14\\VIVOSDEV14_113.wav",
+    "text": "Ắ AY ĐỔI Ầ Ì AU I EO IA ĐÌ ĐẾ Ứ ƯỜI",
+    "speaker_id": "VIVOSDEV14",
+    "split": "test",
+    "duration": 3.343125
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV14\\VIVOSDEV14_114.wav",
+    "text": "YẾU Ố Ấ Ẫ ỚI U Ú ĐẦU Ư ƯỚ OÀI ÀO IỆ A",
+    "speaker_id": "VIVOSDEV14",
+    "split": "test",
+    "duration": 3.436875
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV14\\VIVOSDEV14_115.wav",
+    "text": "ẬY À IỜ ĐÂY Ó Ô ĐỢI ĐƯỢ ĐẾ Ú UY Ề",
+    "speaker_id": "VIVOSDEV14",
+    "split": "test",
+    "duration": 4.124375
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV14\\VIVOSDEV14_116.wav",
+    "text": "Ộ Ó ÂU Á Ê ẦU ÀI Ò Ả AI I",
+    "speaker_id": "VIVOSDEV14",
+    "split": "test",
+    "duration": 2.874375
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV14\\VIVOSDEV14_123.wav",
+    "text": "Ộ ÀI ƯỜI O Ọ Ọ ĐƯA Ắ Ì Ả IẤY",
+    "speaker_id": "VIVOSDEV14",
+    "split": "test",
+    "duration": 3.124375
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV14\\VIVOSDEV14_134.wav",
+    "text": "Ư ƯỚ ĐÂY Ì Ừ Ê OÀI ƠI ÀY Ô Á Ộ Ă À OA",
+    "speaker_id": "VIVOSDEV14",
+    "split": "test",
+    "duration": 3.874375
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV14\\VIVOSDEV14_140.wav",
+    "text": "Ó Ư ẢI À UỐ ĐẶ Ị ỦA Á IẾ À Ự Ỳ ĐẮ",
+    "speaker_id": "VIVOSDEV14",
+    "split": "test",
+    "duration": 3.499375
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV14\\VIVOSDEV14_145.wav",
+    "text": "Ộ Ố Ạ Ẻ Ũ Ó Ý Ĩ Ư AO ƯỜ",
+    "speaker_id": "VIVOSDEV14",
+    "split": "test",
+    "duration": 2.686875
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV14\\VIVOSDEV14_151.wav",
+    "text": "ÔI ĐÃ Ó ỜI IA UYỆ ỜI I ƠI O ĐỘI UYỂ",
+    "speaker_id": "VIVOSDEV14",
+    "split": "test",
+    "duration": 3.093125
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV14\\VIVOSDEV14_156.wav",
+    "text": "Ỉ OẢ O ĐI UA Ừ ẠI Ự E ỒI Ú UỐ",
+    "speaker_id": "VIVOSDEV14",
+    "split": "test",
+    "duration": 3.093125
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV14\\VIVOSDEV14_163.wav",
+    "text": "Ú Ộ ĐỘI UA Ữ ÂU UYỆ ỦA Ô ỚI Ầ ŨI À AO",
+    "speaker_id": "VIVOSDEV14",
+    "split": "test",
+    "duration": 3.124375
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV14\\VIVOSDEV14_180.wav",
+    "text": "Ă Á Ừ Á U À Á ÒI ỚI AU Ộ",
+    "speaker_id": "VIVOSDEV14",
+    "split": "test",
+    "duration": 2.874375
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV14\\VIVOSDEV14_186.wav",
+    "text": "Ó Ằ Ạ Ĩ Ữ À Ê À Ộ ỢI Ế",
+    "speaker_id": "VIVOSDEV14",
+    "split": "test",
+    "duration": 2.811875
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV14\\VIVOSDEV14_191.wav",
+    "text": "I Ậ Ồ UÂ Ũ Ô À ƯU Ầ Ừ ÁO ƯỚ OÀI",
+    "speaker_id": "VIVOSDEV14",
+    "split": "test",
+    "duration": 4.499375
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV14\\VIVOSDEV14_194.wav",
+    "text": "UỐ Ó Ằ ÁI ẢI UA Ộ ĐỢ I Ấ Ắ E",
+    "speaker_id": "VIVOSDEV14",
+    "split": "test",
+    "duration": 2.749375
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV14\\VIVOSDEV14_195.wav",
+    "text": "YÊU AU OẢ ÀI Á Ì Ú ÔI ĐÃ Ó UA Ệ Ì Ụ",
+    "speaker_id": "VIVOSDEV14",
+    "split": "test",
+    "duration": 5.436875
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV14\\VIVOSDEV14_199.wav",
+    "text": "Ó AO UYÊ Á O A UỐ ƯỢU O ĐÁ ƯỚI",
+    "speaker_id": "VIVOSDEV14",
+    "split": "test",
+    "duration": 3.061875
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV14\\VIVOSDEV14_225.wav",
+    "text": "Ô ƯƠ ĐỨ Â Ó Ổ Ụ ƯỞ Ổ Ụ ẠY Ề",
+    "speaker_id": "VIVOSDEV14",
+    "split": "test",
+    "duration": 4.249375
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV14\\VIVOSDEV14_227.wav",
+    "text": "ĐỐI Ử ỚI Ạ Ư ƯỜI YÊU Ũ ỦA Ạ ĐÃ Ừ À",
+    "speaker_id": "VIVOSDEV14",
+    "split": "test",
+    "duration": 3.186875
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV14\\VIVOSDEV14_235.wav",
+    "text": "A IA IẾ Ế Ă Ủ Ị Ồ Í I Ì Ó IỀU ƯỜI",
+    "speaker_id": "VIVOSDEV14",
+    "split": "test",
+    "duration": 3.374375
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV14\\VIVOSDEV14_236.wav",
+    "text": "Ì ẬY Ô Y ẢI Ó Á IỆ ỒI ƯỜ",
+    "speaker_id": "VIVOSDEV14",
+    "split": "test",
+    "duration": 3.061875
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV14\\VIVOSDEV14_256.wav",
+    "text": "Ô Â Ồ ÍA A Ứ Ộ Ụ ĐƯỢ ẠI A Ụ Ấ",
+    "speaker_id": "VIVOSDEV14",
+    "split": "test",
+    "duration": 3.874375
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV14\\VIVOSDEV14_280.wav",
+    "text": "Ì ƯỜI E Ũ ĐƯỢ Â AO IẾ Ứ Ề ĐỊA Ý",
+    "speaker_id": "VIVOSDEV14",
+    "split": "test",
+    "duration": 2.999375
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV14\\VIVOSDEV14_283.wav",
+    "text": "ÀY ƯA Á Ụ À ÌA Á À I OẠ O UỐ Á ĐÓ",
+    "speaker_id": "VIVOSDEV14",
+    "split": "test",
+    "duration": 3.905625
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV14\\VIVOSDEV14_285.wav",
+    "text": "ÔI ĐÃ IỀU Ầ Ả ĐỐI UYẾ IỆ IỆ ƯỚ ẢI UỒ A OÀI",
+    "speaker_id": "VIVOSDEV14",
+    "split": "test",
+    "duration": 3.374375
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV14\\VIVOSDEV14_286.wav",
+    "text": "IỀU IA ĐÌ IỆ AY Í Ự IỚI IỆU ƯƠ Ì",
+    "speaker_id": "VIVOSDEV14",
+    "split": "test",
+    "duration": 2.905625
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV14\\VIVOSDEV14_289.wav",
+    "text": "ÔI À Ộ ƯỜI IỀ ÂY ĐA À IÊ ỨU I Ở Ỹ",
+    "speaker_id": "VIVOSDEV14",
+    "split": "test",
+    "duration": 3.686875
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV14\\VIVOSDEV14_291.wav",
+    "text": "À ĐI ÂU ÀO Ê O Ả Í IÊ IÊ À Ù Ĩ",
+    "speaker_id": "VIVOSDEV14",
+    "split": "test",
+    "duration": 3.561875
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV14\\VIVOSDEV14_294.wav",
+    "text": "O Ạ Ì Â UY Ĩ À Ọ ĐƯỢ Á IẢI UYẾ Ố Ấ",
+    "speaker_id": "VIVOSDEV14",
+    "split": "test",
+    "duration": 3.311875
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV15\\VIVOSDEV15_003.wav",
+    "text": "ĐIỀU ÀY Ó Ơ I Ạ ÀO À IỆ OÀ ƯỜI A Ạ",
+    "speaker_id": "VIVOSDEV15",
+    "split": "test",
+    "duration": 3.624375
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV15\\VIVOSDEV15_013.wav",
+    "text": "Ũ ĐỀU O Ư Ế Õ Ỏ Ố Ỏ Ở ÔI Ở ĐÓ",
+    "speaker_id": "VIVOSDEV15",
+    "split": "test",
+    "duration": 3.686875
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV15\\VIVOSDEV15_014.wav",
+    "text": "À Ộ IẾ Ồ ĐÈ Ổ Ồ ẠI Ô IÊ Ở Ủ ĐÔ Ắ I",
+    "speaker_id": "VIVOSDEV15",
+    "split": "test",
+    "duration": 3.874375
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV15\\VIVOSDEV15_020.wav",
+    "text": "ÂU UYỆ ỦA UÁ Ứ Ô Ể Ô IẾ AO IÊU Ầ",
+    "speaker_id": "VIVOSDEV15",
+    "split": "test",
+    "duration": 2.843125
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV15\\VIVOSDEV15_021.wav",
+    "text": "ÀU O Ô Ậ UYỆ Ê Ấ Ì ÀU A ÀO",
+    "speaker_id": "VIVOSDEV15",
+    "split": "test",
+    "duration": 3.436875
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV15\\VIVOSDEV15_026.wav",
+    "text": "Ô Ă AY À Ĩ Ặ Ì Ă AY À I",
+    "speaker_id": "VIVOSDEV15",
+    "split": "test",
+    "duration": 3.436875
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV15\\VIVOSDEV15_037.wav",
+    "text": "Ê Ơ Ở ĐÓ Ữ À I I Ạ Ẽ ĐƯỢ Ử Ý IÊ",
+    "speaker_id": "VIVOSDEV15",
+    "split": "test",
+    "duration": 3.655625
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV15\\VIVOSDEV15_038.wav",
+    "text": "Ộ Ơ UA Í Ứ ĐỂ Á À IẾU ẠI A ẢO À I ƯỞ",
+    "speaker_id": "VIVOSDEV15",
+    "split": "test",
+    "duration": 4.311875
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV15\\VIVOSDEV15_047.wav",
+    "text": "Ộ Ì UỐ Ứ Ử Ư Ạ ÔI À Ộ Ỉ ỤI ĐƯỢ Ô UYỆ",
+    "speaker_id": "VIVOSDEV15",
+    "split": "test",
+    "duration": 5.374375
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV15\\VIVOSDEV15_050.wav",
+    "text": "Ẳ Ẽ Ă Ơ À ƯỜI À ẠI Ô Ă Ú Ắ E ƯỜI ÓI",
+    "speaker_id": "VIVOSDEV15",
+    "split": "test",
+    "duration": 4.311875
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV15\\VIVOSDEV15_062.wav",
+    "text": "ĨA À ẾU Ạ ĐA À IỆ ƯỚI UYỀ Ộ IÁ Á IÊ",
+    "speaker_id": "VIVOSDEV15",
+    "split": "test",
+    "duration": 4.030625
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV15\\VIVOSDEV15_066.wav",
+    "text": "Ẽ Ó IỀU O A Ò Ị ĐỎ Á Ó Ứ",
+    "speaker_id": "VIVOSDEV15",
+    "split": "test",
+    "duration": 4.374375
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV15\\VIVOSDEV15_092.wav",
+    "text": "U Ư Ừ Ộ Ơ UA Á I Ă ÀO Ệ Ố Ạ Ạ UYẾ",
+    "speaker_id": "VIVOSDEV15",
+    "split": "test",
+    "duration": 4.374375
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV15\\VIVOSDEV15_109.wav",
+    "text": "UỘ I Ự ÀO Ử IỆ ĐÃ Ế IAI ĐOẠ I",
+    "speaker_id": "VIVOSDEV15",
+    "split": "test",
+    "duration": 3.030625
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV15\\VIVOSDEV15_111.wav",
+    "text": "UỘ IỂU Ì ỦA ÁO ĐỎ Ó Ể Ẽ IẾ À ẠO Ự",
+    "speaker_id": "VIVOSDEV15",
+    "split": "test",
+    "duration": 3.405625
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV15\\VIVOSDEV15_117.wav",
+    "text": "Ê Ự Ế Ộ UỘ ĐIỀU A ĐÃ ĐƯỢ IẾ À",
+    "speaker_id": "VIVOSDEV15",
+    "split": "test",
+    "duration": 3.686875
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV15\\VIVOSDEV15_121.wav",
+    "text": "ẢI ÀI À Ụ ÂY Ố ĐỀU U Ọ ÀO Ầ Ắ",
+    "speaker_id": "VIVOSDEV15",
+    "split": "test",
+    "duration": 3.999375
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV15\\VIVOSDEV15_137.wav",
+    "text": "Ả IÊ IÁ ĐÓ Ì Ỉ Ó Ể À ẬY ÔI",
+    "speaker_id": "VIVOSDEV15",
+    "split": "test",
+    "duration": 3.999375
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV15\\VIVOSDEV15_147.wav",
+    "text": "Ắ ĐẦU UỘ ẠY ĐUA ÙA I OA Ế IỮA Á ỘI À Á OẠI",
+    "speaker_id": "VIVOSDEV15",
+    "split": "test",
+    "duration": 4.249375
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV15\\VIVOSDEV15_154.wav",
+    "text": "ÁI À Á Ị ĐẬ A À Ô OÁI Ắ À",
+    "speaker_id": "VIVOSDEV15",
+    "split": "test",
+    "duration": 3.749375
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV15\\VIVOSDEV15_168.wav",
+    "text": "Â Ơ Ẫ A ĐẠ Ủ ÁO ỦA Ợ Ũ Ỉ ÀI Ộ ĐƠ Ơ",
+    "speaker_id": "VIVOSDEV15",
+    "split": "test",
+    "duration": 5.561875
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV15\\VIVOSDEV15_173.wav",
+    "text": "Ì Ứ Ỷ UẬ ÀO Ũ Ỉ Ó Í ĐỊ ƯỚ Ă ĐE",
+    "speaker_id": "VIVOSDEV15",
+    "split": "test",
+    "duration": 4.749375
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV15\\VIVOSDEV15_180.wav",
+    "text": "IỆ AY À ĐA Ị IỀU Ệ À Ố ƯỚI Ứ ÈO Ổ",
+    "speaker_id": "VIVOSDEV15",
+    "split": "test",
+    "duration": 4.093125
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV15\\VIVOSDEV15_194.wav",
+    "text": "Ằ Ê IƯỜ Ầ Ả Á Ấ IÁ ÔI Ả ẤY Ì Ậ Ô ĐỘ",
+    "speaker_id": "VIVOSDEV15",
+    "split": "test",
+    "duration": 4.374375
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV15\\VIVOSDEV15_198.wav",
+    "text": "Ả Í I IỜ Ọ Á ÈO UỒ Ủ UÁ Ờ UỒ Ủ",
+    "speaker_id": "VIVOSDEV15",
+    "split": "test",
+    "duration": 4.874375
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV15\\VIVOSDEV15_200.wav",
+    "text": "ÓI UYỆ Ộ ỒI Ô À Ộ ĐỂ AY Ê AY E Ê Ầ Ố",
+    "speaker_id": "VIVOSDEV15",
+    "split": "test",
+    "duration": 4.874375
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV15\\VIVOSDEV15_203.wav",
+    "text": "Ò A AI ÔI O Ậ Ý ỦA Ì Ũ I Ả ĐIỀU ĐÓ",
+    "speaker_id": "VIVOSDEV15",
+    "split": "test",
+    "duration": 4.186875
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV15\\VIVOSDEV15_204.wav",
+    "text": "Á Ú ÔI Ạ IỆ U AI À Ữ Ủ Â Ế Á Ộ Ạ",
+    "speaker_id": "VIVOSDEV15",
+    "split": "test",
+    "duration": 4.343125
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV15\\VIVOSDEV15_208.wav",
+    "text": "ẤY ÀY ĐẦU ÚY À ẢI Ờ I Ẫ ĐI IỚI IỆU ƯỜ",
+    "speaker_id": "VIVOSDEV15",
+    "split": "test",
+    "duration": 4.186875
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV15\\VIVOSDEV15_209.wav",
+    "text": "Ọ Í I ỚI Ă ÓA Ô Y Ư Ế ÀO",
+    "speaker_id": "VIVOSDEV15",
+    "split": "test",
+    "duration": 3.186875
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV15\\VIVOSDEV15_213.wav",
+    "text": "Ô Ì ẤU Ú Ứ Ă À OA Ọ Ã ỘI A Í IÁO Ụ",
+    "speaker_id": "VIVOSDEV15",
+    "split": "test",
+    "duration": 4.561875
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV15\\VIVOSDEV15_216.wav",
+    "text": "À Ạ Ầ Ó IỆ À Ổ ĐỊ ỚI U Ậ AO",
+    "speaker_id": "VIVOSDEV15",
+    "split": "test",
+    "duration": 3.249375
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV15\\VIVOSDEV15_220.wav",
+    "text": "ĐÂY À Á Ó Ố ĐĂ Ý Ấ Ấ Ừ ĐẦU Ă ĐẾ AY",
+    "speaker_id": "VIVOSDEV15",
+    "split": "test",
+    "duration": 3.749375
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV15\\VIVOSDEV15_239.wav",
+    "text": "Ậ A Ì Ũ Ô Ể À ẦU Ì Ư Ở À ĐƯỢ",
+    "speaker_id": "VIVOSDEV15",
+    "split": "test",
+    "duration": 4.374375
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV15\\VIVOSDEV15_253.wav",
+    "text": "Ả ẠI EO UY Ế ĐÂY À Á IỆ ỦA ỖI Í I",
+    "speaker_id": "VIVOSDEV15",
+    "split": "test",
+    "duration": 3.561875
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV15\\VIVOSDEV15_255.wav",
+    "text": "Ô Â ĐA I Ô AI Á ẦU Ạ IẾ Ả UẬ Ắ",
+    "speaker_id": "VIVOSDEV15",
+    "split": "test",
+    "duration": 4.561875
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV15\\VIVOSDEV15_265.wav",
+    "text": "Ọ Ô IẾ ƠI Ò Ự À Ì Ừ I Ị ĐỐI Ủ ÂY É",
+    "speaker_id": "VIVOSDEV15",
+    "split": "test",
+    "duration": 4.374375
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV15\\VIVOSDEV15_267.wav",
+    "text": "UỐI Ù Ọ Ẫ AU Ề À ỚI Ú À Ô",
+    "speaker_id": "VIVOSDEV15",
+    "split": "test",
+    "duration": 3.499375
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV15\\VIVOSDEV15_271.wav",
+    "text": "I ỚI ỦA ƯƠ Ệ ƯU Ự Ở ẠI Ò I Ệ UẬ",
+    "speaker_id": "VIVOSDEV15",
+    "split": "test",
+    "duration": 4.593125
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV15\\VIVOSDEV15_299.wav",
+    "text": "Ò À Ă IẾ Á ĐÃ Á Ì Ô Ô Ớ Ế",
+    "speaker_id": "VIVOSDEV15",
+    "split": "test",
+    "duration": 3.874375
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV16\\VIVOSDEV16_026.wav",
+    "text": "Ù Ợ Ă ỘI É Ơ À ẠI O Ô ÀI À ÀI Ậ",
+    "speaker_id": "VIVOSDEV16",
+    "split": "test",
+    "duration": 6.374375
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV16\\VIVOSDEV16_033.wav",
+    "text": "ĐỘI ÀO À Í À AO Ì UẢ Ý À Ó",
+    "speaker_id": "VIVOSDEV16",
+    "split": "test",
+    "duration": 3.561875
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV16\\VIVOSDEV16_048.wav",
+    "text": "ẢI Ă ÂY Ự IỀ I ÀO Ì YÊU Ó Ế",
+    "speaker_id": "VIVOSDEV16",
+    "split": "test",
+    "duration": 3.968125
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV16\\VIVOSDEV16_049.wav",
+    "text": "Ò A ẦU Ủ Ă ƯƠ Ậ IẾU À ẢI Â Ì AO ƯA Ô",
+    "speaker_id": "VIVOSDEV16",
+    "split": "test",
+    "duration": 6.061875
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV16\\VIVOSDEV16_050.wav",
+    "text": "Á ẢY IỀU ƯỜI O Ó Ê ỜI UỒ À Ó EO",
+    "speaker_id": "VIVOSDEV16",
+    "split": "test",
+    "duration": 3.749375
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV16\\VIVOSDEV16_051.wav",
+    "text": "A Ú ĐƯỢ Á IẢ YÊU Í Ấ À ÔI UYỄ Ĩ IẾ",
+    "speaker_id": "VIVOSDEV16",
+    "split": "test",
+    "duration": 4.186875
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV16\\VIVOSDEV16_058.wav",
+    "text": "ĐẦU Ư IÊU Ù À UẤ ẨU ĐỀU Ẽ Ă Ạ",
+    "speaker_id": "VIVOSDEV16",
+    "split": "test",
+    "duration": 3.311875
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV16\\VIVOSDEV16_059.wav",
+    "text": "ĐỒ Ổ Ô Ô AI UỒ Ố ẢI Ị OI À À IẢ",
+    "speaker_id": "VIVOSDEV16",
+    "split": "test",
+    "duration": 4.093125
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV16\\VIVOSDEV16_064.wav",
+    "text": "Ừ À Ủ Ế À Ă Ễ A Á Ộ IÓ",
+    "speaker_id": "VIVOSDEV16",
+    "split": "test",
+    "duration": 3.624375
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV16\\VIVOSDEV16_067.wav",
+    "text": "Ì Ư Ô Ó Ả Ộ O AI ÀI À ĐỨ",
+    "speaker_id": "VIVOSDEV16",
+    "split": "test",
+    "duration": 3.561875
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV16\\VIVOSDEV16_068.wav",
+    "text": "Ê Ạ ĐÓ Ú ÔI Ò À À OẠ IỆ Á Ư",
+    "speaker_id": "VIVOSDEV16",
+    "split": "test",
+    "duration": 4.249375
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV16\\VIVOSDEV16_074.wav",
+    "text": "Ú Ó YÊU AU Ấ Ự IÊ É AU Ũ Ấ Ự IÊ",
+    "speaker_id": "VIVOSDEV16",
+    "split": "test",
+    "duration": 3.999375
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV16\\VIVOSDEV16_079.wav",
+    "text": "Ấ Ả ĐỂ O ƯỜI Ệ À Â Â ÀI Ò I ĐẾ Ệ IỆ",
+    "speaker_id": "VIVOSDEV16",
+    "split": "test",
+    "duration": 4.999375
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV16\\VIVOSDEV16_101.wav",
+    "text": "ÔI Ẽ Ớ Ắ À Ầ ẦU UYỆ I ÚA IÚ O",
+    "speaker_id": "VIVOSDEV16",
+    "split": "test",
+    "duration": 3.936875
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV16\\VIVOSDEV16_112.wav",
+    "text": "Ú Ư Ấ ÓI UYỆ Ó AO Ẳ Ó I Ứ Ạ",
+    "speaker_id": "VIVOSDEV16",
+    "split": "test",
+    "duration": 3.811875
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV16\\VIVOSDEV16_120.wav",
+    "text": "Ẽ À Ú A Ủ Ô ĐỦ Ô ĐÚ UY UẬ",
+    "speaker_id": "VIVOSDEV16",
+    "split": "test",
+    "duration": 3.780625
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV16\\VIVOSDEV16_149.wav",
+    "text": "Ó AO IỜ Ô Ặ Ì UỐ Ô Ả ỜI ĐƯỢ ÂU ỎI ỦA Â",
+    "speaker_id": "VIVOSDEV16",
+    "split": "test",
+    "duration": 4.374375
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV16\\VIVOSDEV16_153.wav",
+    "text": "Ả ĐỜI ƯA AO IỜ ÔI Ó Ả IÁ U ƯỚ Ư ẬY",
+    "speaker_id": "VIVOSDEV16",
+    "split": "test",
+    "duration": 3.749375
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV16\\VIVOSDEV16_154.wav",
+    "text": "Í Ó Ơ ỘI Ố Ó O Á À Á Ê ÁY AY",
+    "speaker_id": "VIVOSDEV16",
+    "split": "test",
+    "duration": 3.968125
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV16\\VIVOSDEV16_161.wav",
+    "text": "U UỐ ĐƯA A Ì Ạ Ụ Ể ĐỐI ỚI ỘI A Ũ",
+    "speaker_id": "VIVOSDEV16",
+    "split": "test",
+    "duration": 4.655625
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV16\\VIVOSDEV16_168.wav",
+    "text": "AI ÁU Ạ IÊ ĐÓ Á Ạ U ƯỚ Ô Ặ ỚI",
+    "speaker_id": "VIVOSDEV16",
+    "split": "test",
+    "duration": 4.061875
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV16\\VIVOSDEV16_173.wav",
+    "text": "Ư Ô UYẾ Ứ I ƯỜI Ù Ô ẢI Ô Ụ",
+    "speaker_id": "VIVOSDEV16",
+    "split": "test",
+    "duration": 4.374375
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV16\\VIVOSDEV16_175.wav",
+    "text": "Ọ ĐÃ AO AU ỜI Ẹ ƯỚ Ê UYÊ Ồ Ợ",
+    "speaker_id": "VIVOSDEV16",
+    "split": "test",
+    "duration": 3.811875
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV16\\VIVOSDEV16_177.wav",
+    "text": "ẾU Ỉ OẢ Ó ÀI ÀY Ỉ ƯỜI ỤY ĐIỂ ƯỜ A ĐẢO ƠI",
+    "speaker_id": "VIVOSDEV16",
+    "split": "test",
+    "duration": 5.249375
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV16\\VIVOSDEV16_182.wav",
+    "text": "Ữ ƯỜI Ô Ậ Ì Ó Ể Ặ ẢI Ứ Ầ Ả OẶ O Ắ",
+    "speaker_id": "VIVOSDEV16",
+    "split": "test",
+    "duration": 4.905625
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV16\\VIVOSDEV16_193.wav",
+    "text": "Ự Ế AI Ò ỦA Ạ À ƯỜI Ỏ Ấ ĐỐI IẾU AU",
+    "speaker_id": "VIVOSDEV16",
+    "split": "test",
+    "duration": 4.343125
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV16\\VIVOSDEV16_196.wav",
+    "text": "Ự IÚ ĐỠ ỦA À À Ô Ù UÍ ÁU O Ú ÔI",
+    "speaker_id": "VIVOSDEV16",
+    "split": "test",
+    "duration": 4.124375
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV16\\VIVOSDEV16_197.wav",
+    "text": "À ƯỜ ĐỘ Ộ ỦY ĐỀ ÀI IẾ ÔI Ấ ƯƠ ƯỚ",
+    "speaker_id": "VIVOSDEV16",
+    "split": "test",
+    "duration": 4.561875
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV16\\VIVOSDEV16_198.wav",
+    "text": "Á Ậ Ử ƯỞ Ứ ỜI ÊU ỌI ỦA ẦY Ư Ế ÀO",
+    "speaker_id": "VIVOSDEV16",
+    "split": "test",
+    "duration": 5.186875
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV16\\VIVOSDEV16_203.wav",
+    "text": "ẬY Ữ ĐỐI ƯỢ ÀY Ẽ ĐƯỢ IẢI UYẾ Ư Ế ÀO",
+    "speaker_id": "VIVOSDEV16",
+    "split": "test",
+    "duration": 3.843125
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV16\\VIVOSDEV16_228.wav",
+    "text": "E Ẽ IỮA Ữ À IỂU IỄ À Ữ Ú UI ƠI Ậ Ể",
+    "speaker_id": "VIVOSDEV16",
+    "split": "test",
+    "duration": 4.811875
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV16\\VIVOSDEV16_233.wav",
+    "text": "Á A ẤY Â Ì Ú UA O Ê IÁ Ổ Ồ ĐÃ Ế",
+    "speaker_id": "VIVOSDEV16",
+    "split": "test",
+    "duration": 5.436875
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV16\\VIVOSDEV16_239.wav",
+    "text": "À Ộ ĐIỀU ÂU A À Ì ĐÃ Ậ Ự YÊU Ạ",
+    "speaker_id": "VIVOSDEV16",
+    "split": "test",
+    "duration": 4.249375
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV16\\VIVOSDEV16_247.wav",
+    "text": "IỀU Ô ƯA IÓ Á Ế Á È Ặ ĨU Ê AI Ẹ",
+    "speaker_id": "VIVOSDEV16",
+    "split": "test",
+    "duration": 5.186875
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV16\\VIVOSDEV16_266.wav",
+    "text": "ÍA ƯỚI À U UA Ệ À ƯỚ Ẩ Ê Á ẢY UA",
+    "speaker_id": "VIVOSDEV16",
+    "split": "test",
+    "duration": 5.061875
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV16\\VIVOSDEV16_267.wav",
+    "text": "ÔI ĐỨ ƯỚ AI ỐI Ẽ À ÔI Ọ O ĐƯỜ Í ƯỜI ĐI Ơ",
+    "speaker_id": "VIVOSDEV16",
+    "split": "test",
+    "duration": 4.999375
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV16\\VIVOSDEV16_273.wav",
+    "text": "Ú ÔI ĐÃ ĐIỀU A Ữ ƯỜ Ợ Ó I Ấ IA ỐI",
+    "speaker_id": "VIVOSDEV16",
+    "split": "test",
+    "duration": 4.468125
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV16\\VIVOSDEV16_279.wav",
+    "text": "ẬY Ừ ÀO ỚI ỚI I ỖI Â Â Ậ UỐI",
+    "speaker_id": "VIVOSDEV16",
+    "split": "test",
+    "duration": 4.186875
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV16\\VIVOSDEV16_298.wav",
+    "text": "Ô ÀO A A Ớ Ạ ĐƯỢ IAO IỆ Ụ ĐI Ợ O ỮA ỐI",
+    "speaker_id": "VIVOSDEV16",
+    "split": "test",
+    "duration": 5.249375
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV16\\VIVOSDEV16_299.wav",
+    "text": "ÀO ĐƯỢ À A ĐẤY ỬA ỬA ĐI UY IỂ ĐẤY",
+    "speaker_id": "VIVOSDEV16",
+    "split": "test",
+    "duration": 4.436875
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV17\\VIVOSDEV17_011.wav",
+    "text": "ỒI Ặ Ù IẾ À Ớ Ẩ ÔI Ứ ÓI A",
+    "speaker_id": "VIVOSDEV17",
+    "split": "test",
+    "duration": 4.061875
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV17\\VIVOSDEV17_024.wav",
+    "text": "IÊ Ô UYỄ Ă A Ị Ỗ ĐÈ Ậ Ọ ÃO Ế AY ẠI Ỗ",
+    "speaker_id": "VIVOSDEV17",
+    "split": "test",
+    "duration": 5.718125
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV17\\VIVOSDEV17_032.wav",
+    "text": "ỖI ƯỜI Ở Ộ Ụ ƯỜI ỚI Ữ Ý ĨA Á AU",
+    "speaker_id": "VIVOSDEV17",
+    "split": "test",
+    "duration": 4.343125
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV17\\VIVOSDEV17_043.wav",
+    "text": "O ẬY Ẽ Ả ƯỞ ỚI IỆ U Ó Ô UYẾ",
+    "speaker_id": "VIVOSDEV17",
+    "split": "test",
+    "duration": 3.624375
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV17\\VIVOSDEV17_048.wav",
+    "text": "I IẾU UYÊ Ả IẾ Á Ó Ụ ĐỀ IẾ IỆ",
+    "speaker_id": "VIVOSDEV17",
+    "split": "test",
+    "duration": 3.749375
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV17\\VIVOSDEV17_060.wav",
+    "text": "Ó ÀU A À Ù Â ÃO Ó Ể ĐI UA",
+    "speaker_id": "VIVOSDEV17",
+    "split": "test",
+    "duration": 3.468125
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV17\\VIVOSDEV17_062.wav",
+    "text": "AU Ộ ÀY AO ĐỘ Ă Ệ Ạ ƯU IÊ Ọ",
+    "speaker_id": "VIVOSDEV17",
+    "split": "test",
+    "duration": 3.593125
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV17\\VIVOSDEV17_070.wav",
+    "text": "À Ũ Ẳ Ớ Ì Ó ÓI AY Ô ĐỂ ÃI ẠI Ô ẤY",
+    "speaker_id": "VIVOSDEV17",
+    "split": "test",
+    "duration": 4.030625
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV17\\VIVOSDEV17_071.wav",
+    "text": "Ả Â ÔI Ũ A IA Ộ AI Ấ Ỏ ỮA",
+    "speaker_id": "VIVOSDEV17",
+    "split": "test",
+    "duration": 3.718125
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV17\\VIVOSDEV17_077.wav",
+    "text": "Ô AU Ở ÁY ẤY ÁI UYỆ ĐÃ Ự OÀ Ỉ ỒI",
+    "speaker_id": "VIVOSDEV17",
+    "split": "test",
+    "duration": 4.249375
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV17\\VIVOSDEV17_090.wav",
+    "text": "ÂY IỜ Ì ĐÁ ĐƯỢ E À Ô I Ứ Ả",
+    "speaker_id": "VIVOSDEV17",
+    "split": "test",
+    "duration": 3.530625
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV17\\VIVOSDEV17_099.wav",
+    "text": "Ị Ì À O E Ở Ọ AY Ổ ƯỜ Ị Ọ",
+    "speaker_id": "VIVOSDEV17",
+    "split": "test",
+    "duration": 4.593125
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV17\\VIVOSDEV17_100.wav",
+    "text": "ĐẾ ĐÀ Ạ Ạ ẢI UẨ Ị ĐÔI Â ĐỂ ĐI Ộ",
+    "speaker_id": "VIVOSDEV17",
+    "split": "test",
+    "duration": 3.968125
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV17\\VIVOSDEV17_107.wav",
+    "text": "Ọ ĐƯỢ Ọ ĐẦU ẬU Ữ AY Ù UÊ ỚI IÁ Ẻ Ạ",
+    "speaker_id": "VIVOSDEV17",
+    "split": "test",
+    "duration": 4.905625
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV17\\VIVOSDEV17_109.wav",
+    "text": "Ộ À A Ọ ĐẾ Ặ Á Ĩ Ẻ Á Ệ Á Ĩ ỎI",
+    "speaker_id": "VIVOSDEV17",
+    "split": "test",
+    "duration": 3.811875
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV17\\VIVOSDEV17_114.wav",
+    "text": "Â Ự À IẾ Ế ĐỒ ỌA ĐẮ IÁ À A IẾ",
+    "speaker_id": "VIVOSDEV17",
+    "split": "test",
+    "duration": 3.374375
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV17\\VIVOSDEV17_120.wav",
+    "text": "AU ĐÓ Ả Â Ọ I ẢI À ĐƠ I Ọ Ổ",
+    "speaker_id": "VIVOSDEV17",
+    "split": "test",
+    "duration": 3.780625
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV17\\VIVOSDEV17_133.wav",
+    "text": "Ỉ Ó Ự Ẩ ỚI IÚ Ạ À ĐƯỢ IỆ ÀY",
+    "speaker_id": "VIVOSDEV17",
+    "split": "test",
+    "duration": 3.624375
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV17\\VIVOSDEV17_147.wav",
+    "text": "ỚI Á Á ÀU À Ê ỮA Ô Ầ ĐIỀU Ị",
+    "speaker_id": "VIVOSDEV17",
+    "split": "test",
+    "duration": 3.686875
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV17\\VIVOSDEV17_169.wav",
+    "text": "Ọ ẢO ÔI IỐ ƯỜI À Ì ÔI ẠI ẤY Ọ IỐ ƯỜI IỆ",
+    "speaker_id": "VIVOSDEV17",
+    "split": "test",
+    "duration": 4.874375
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV17\\VIVOSDEV17_170.wav",
+    "text": "À ĐỘI UYỂ Á ĐA À ĐỘI IẾ ƯU Ế Ơ O ỚI ỤY Ĩ",
+    "speaker_id": "VIVOSDEV17",
+    "split": "test",
+    "duration": 3.843125
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV17\\VIVOSDEV17_173.wav",
+    "text": "Ì ĐỘ UYÊ Ô ỦA Ô IẾ Ô UÁ ỪA Ư Á",
+    "speaker_id": "VIVOSDEV17",
+    "split": "test",
+    "duration": 3.249375
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV17\\VIVOSDEV17_181.wav",
+    "text": "Ữ ÂU ỎI Ê Ẽ IÚ Ạ À ĐƯỢ ĐIỀU ÀY",
+    "speaker_id": "VIVOSDEV17",
+    "split": "test",
+    "duration": 3.874375
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV17\\VIVOSDEV17_189.wav",
+    "text": "Ẫ Ò Ư Ạ Ô Á Ắ Ọ Ó Ạ Ú AY Ô",
+    "speaker_id": "VIVOSDEV17",
+    "split": "test",
+    "duration": 4.999375
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV17\\VIVOSDEV17_192.wav",
+    "text": "ĐÓ Ũ À Ự IẾ Ú Ầ ŨI Ấ ỦA Ọ E",
+    "speaker_id": "VIVOSDEV17",
+    "split": "test",
+    "duration": 4.061875
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV17\\VIVOSDEV17_204.wav",
+    "text": "E ÃY Ỉ ÁO À Ì Ữ ĐỊ ƯỚ Ố Ơ O ƯƠ AI",
+    "speaker_id": "VIVOSDEV17",
+    "split": "test",
+    "duration": 4.624375
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV17\\VIVOSDEV17_208.wav",
+    "text": "Ư Ẳ Ó ĐIỂ Ả UẤ ÀO Ù Ạ Ủ E Ắ",
+    "speaker_id": "VIVOSDEV17",
+    "split": "test",
+    "duration": 5.124375
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV17\\VIVOSDEV17_212.wav",
+    "text": "Ó ẤY ƯỜI ĐỤ ẢI Ó UÝ Ã ÚI UỐ ĐƯỜ",
+    "speaker_id": "VIVOSDEV17",
+    "split": "test",
+    "duration": 4.686875
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV17\\VIVOSDEV17_213.wav",
+    "text": "ĐOÀ ĐI UYỀ ĐẾ Ộ U À Â Ộ IỂU Ố",
+    "speaker_id": "VIVOSDEV17",
+    "split": "test",
+    "duration": 4.030625
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV17\\VIVOSDEV17_217.wav",
+    "text": "Ì Ợ ĐỒ Ế Ấ ÀY Ũ Ô Ó IÁ Ị Á Ý",
+    "speaker_id": "VIVOSDEV17",
+    "split": "test",
+    "duration": 5.936875
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV17\\VIVOSDEV17_239.wav",
+    "text": "A ÔI Ã IỆ ÓI UYỆ ỚI Ố Ọ I Ù Ê E ĐÒ",
+    "speaker_id": "VIVOSDEV17",
+    "split": "test",
+    "duration": 5.186875
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV17\\VIVOSDEV17_241.wav",
+    "text": "Ộ A AI UẤ ĐA ỒI Ù Ì ỘI IẾ ƯỜI",
+    "speaker_id": "VIVOSDEV17",
+    "split": "test",
+    "duration": 3.905625
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV17\\VIVOSDEV17_245.wav",
+    "text": "ĐƯỢ ÀY Ê Ữ Ệ Ờ Ê Ạ Ữ Ó E UỆ Ơ Ứ",
+    "speaker_id": "VIVOSDEV17",
+    "split": "test",
+    "duration": 5.311875
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV17\\VIVOSDEV17_254.wav",
+    "text": "Á ƯỚ AU ĐÂY Ẽ IÚ Ạ Ì A Ứ Ử IÊ Í Ợ",
+    "speaker_id": "VIVOSDEV17",
+    "split": "test",
+    "duration": 4.811875
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV17\\VIVOSDEV17_268.wav",
+    "text": "Ì Ú Ó Ể À Ă ỦA Ạ Ễ Ị Ố À",
+    "speaker_id": "VIVOSDEV17",
+    "split": "test",
+    "duration": 4.093125
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV17\\VIVOSDEV17_271.wav",
+    "text": "IẢI Ấ UY ƯƠ À UỘ Ề À IẾ Ả ỦA Ộ ÒA É",
+    "speaker_id": "VIVOSDEV17",
+    "split": "test",
+    "duration": 5.468125
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV17\\VIVOSDEV17_285.wav",
+    "text": "ĐỂ I Ị Ự Ô Á Ề Ơ Ả Ạ ẢI Ó",
+    "speaker_id": "VIVOSDEV17",
+    "split": "test",
+    "duration": 4.249375
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV17\\VIVOSDEV17_288.wav",
+    "text": "ÔI Ắ À AY ƯA A ÔI Ừ ƯƠ YÊU ĐAU Ó Ầ IỮ",
+    "speaker_id": "VIVOSDEV17",
+    "split": "test",
+    "duration": 5.280625
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV17\\VIVOSDEV17_297.wav",
+    "text": "O Ò Á ƯỜI Ỉ Ì ĐƯỢ Ắ Í À ẨU A",
+    "speaker_id": "VIVOSDEV17",
+    "split": "test",
+    "duration": 4.311875
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV17\\VIVOSDEV17_299.wav",
+    "text": "AI Ạ IỂ Ã UY Ô Ớ Ề A Ơ ÀI IỆ A",
+    "speaker_id": "VIVOSDEV17",
+    "split": "test",
+    "duration": 3.624375
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV18\\VIVOSDEV18_006.wav",
+    "text": "Ô Ê Ỉ ỰA ÀO ÀI IẾ ỦA Ạ ĐỂ UYẾ I Ê",
+    "speaker_id": "VIVOSDEV18",
+    "split": "test",
+    "duration": 3.249375
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV18\\VIVOSDEV18_012.wav",
+    "text": "À IÁO Ụ O ƯỜI Ở À IỆ UYỆ Í Ớ",
+    "speaker_id": "VIVOSDEV18",
+    "split": "test",
+    "duration": 2.593125
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV18\\VIVOSDEV18_017.wav",
+    "text": "UY IÊ Ợ ĐỒ ÀY Ỉ Ó IÁ Ị O Ữ ÀY Ì ƯỜ",
+    "speaker_id": "VIVOSDEV18",
+    "split": "test",
+    "duration": 2.811875
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV18\\VIVOSDEV18_021.wav",
+    "text": "Ấ ĐỀ ĐẶ A Ở ĐÂY À À Ế ÀO ĐỂ",
+    "speaker_id": "VIVOSDEV18",
+    "split": "test",
+    "duration": 2.561875
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV18\\VIVOSDEV18_051.wav",
+    "text": "Ư IỀU U Á ẤY Ấ Ọ I Ê ĐẾ ƠI",
+    "speaker_id": "VIVOSDEV18",
+    "split": "test",
+    "duration": 2.874375
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV18\\VIVOSDEV18_056.wav",
+    "text": "Ê Ặ AI Ũ Ó Ă AY ẨU A E IỆ",
+    "speaker_id": "VIVOSDEV18",
+    "split": "test",
+    "duration": 2.999375
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV18\\VIVOSDEV18_060.wav",
+    "text": "À ÀY Ì À Ĩ IỀU Ề Ô IỆ IẢ ẠY",
+    "speaker_id": "VIVOSDEV18",
+    "split": "test",
+    "duration": 2.343125
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV18\\VIVOSDEV18_064.wav",
+    "text": "Ấ IÊ ÓA ĐƠ IỀ ƯỚ Ũ È UÔ OẢ IỀ",
+    "speaker_id": "VIVOSDEV18",
+    "split": "test",
+    "duration": 2.905625
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV18\\VIVOSDEV18_065.wav",
+    "text": "Ú Ạ ĐỌ Ó Ậ IỀU ỜI IA Ư IÃ OẢI ÁI",
+    "speaker_id": "VIVOSDEV18",
+    "split": "test",
+    "duration": 2.343125
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV18\\VIVOSDEV18_082.wav",
+    "text": "À Â ÀY ĐE À Ế Ô Ẫ ÀO ĐÂU ĐƯỢ",
+    "speaker_id": "VIVOSDEV18",
+    "split": "test",
+    "duration": 2.624375
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV18\\VIVOSDEV18_102.wav",
+    "text": "Ả ÀY ỜI Ô Ắ IÓ Ạ Ê ƯA Ắ U Á",
+    "speaker_id": "VIVOSDEV18",
+    "split": "test",
+    "duration": 2.780625
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV18\\VIVOSDEV18_114.wav",
+    "text": "À ĐƯỢ Ế ỐI Ô IỆ ẤY À Ộ Ỗ Ự Ấ Ớ",
+    "speaker_id": "VIVOSDEV18",
+    "split": "test",
+    "duration": 3.030625
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV18\\VIVOSDEV18_118.wav",
+    "text": "ƯỜI Ă I ƯA À ÀY ƯỜ Ì À O Ì Ũ ĐƯỢ",
+    "speaker_id": "VIVOSDEV18",
+    "split": "test",
+    "duration": 3.624375
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV18\\VIVOSDEV18_120.wav",
+    "text": "Ạ Ô AO IỜ A OÀI À Ô Ù E Ó",
+    "speaker_id": "VIVOSDEV18",
+    "split": "test",
+    "duration": 2.436875
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV18\\VIVOSDEV18_126.wav",
+    "text": "ÀI Ầ IỂ Ã A ƯỢ Ô ỜI Ư Ế Ắ Ẽ Ậ A",
+    "speaker_id": "VIVOSDEV18",
+    "split": "test",
+    "duration": 4.436875
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV18\\VIVOSDEV18_155.wav",
+    "text": "ƯỜI ĐÀ Ô Ê IƯỜ Ì Ì Ê Ê Ộ IẾ ỒI Ở Ắ",
+    "speaker_id": "VIVOSDEV18",
+    "split": "test",
+    "duration": 3.936875
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV18\\VIVOSDEV18_171.wav",
+    "text": "ỐI UA ƯỜI A ĐẾ Ắ ÔI IỮA ĐÊ Ô UYA OẮ",
+    "speaker_id": "VIVOSDEV18",
+    "split": "test",
+    "duration": 3.499375
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV18\\VIVOSDEV18_183.wav",
+    "text": "ẢO Ằ UYẾ Ó Ắ O À Ố ÂU À Ị",
+    "speaker_id": "VIVOSDEV18",
+    "split": "test",
+    "duration": 2.936875
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV18\\VIVOSDEV18_191.wav",
+    "text": "Ị Á Ĩ IỀ À ẤY Ó Ữ Ý UYẾ Ồ ÂY Ậ Ú Ị",
+    "speaker_id": "VIVOSDEV18",
+    "split": "test",
+    "duration": 3.999375
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV18\\VIVOSDEV18_192.wav",
+    "text": "Ữ IỂU Ế ƯƠ À Ẻ ƯỜ A EO Ó Ể À Ì",
+    "speaker_id": "VIVOSDEV18",
+    "split": "test",
+    "duration": 3.186875
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV18\\VIVOSDEV18_194.wav",
+    "text": "I ỚI Ẹ O ĐI AI Ậ U AU Ộ Ă Ạ Ở Ề À",
+    "speaker_id": "VIVOSDEV18",
+    "split": "test",
+    "duration": 3.468125
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV18\\VIVOSDEV18_195.wav",
+    "text": "ĐẦU IÊ À Ộ Ấ Â Ả AU ĐÓ ỚI ĐẾ ƯƠ Ả",
+    "speaker_id": "VIVOSDEV18",
+    "split": "test",
+    "duration": 2.749375
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV18\\VIVOSDEV18_198.wav",
+    "text": "ẤY ÀY AY Ú ÔI ĐÃ Ị U ĐƯỢ Á IỀU À Ế",
+    "speaker_id": "VIVOSDEV18",
+    "split": "test",
+    "duration": 2.811875
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV18\\VIVOSDEV18_199.wav",
+    "text": "IỂ IÊ Ô AI UỐ UẤ IỆ Ê Ạ Ộ ƯỜI Ư ẬY",
+    "speaker_id": "VIVOSDEV18",
+    "split": "test",
+    "duration": 2.905625
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV18\\VIVOSDEV18_211.wav",
+    "text": "Ì Ả UẢ ÁO ĐIẾU UỐ ĐIỆ Ử ĐƯỢ Ô Y",
+    "speaker_id": "VIVOSDEV18",
+    "split": "test",
+    "duration": 4.093125
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV18\\VIVOSDEV18_214.wav",
+    "text": "IỂU ÀI U Ụ Ẫ Ứ Ề Ê Ở Ộ Ố Ụ ĐIỂ",
+    "speaker_id": "VIVOSDEV18",
+    "split": "test",
+    "duration": 3.749375
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV18\\VIVOSDEV18_240.wav",
+    "text": "ỜI A Ự UỘ I IẾ Ắ Ộ IỜ Ô ĐIỆ",
+    "speaker_id": "VIVOSDEV18",
+    "split": "test",
+    "duration": 3.499375
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV18\\VIVOSDEV18_250.wav",
+    "text": "Ầ ĐẦU IÊ Ộ Â IÊ ƯỜI IỆ Á Ứ IỆ Á IỆ ỦA ÔI",
+    "speaker_id": "VIVOSDEV18",
+    "split": "test",
+    "duration": 4.530625
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV18\\VIVOSDEV18_252.wav",
+    "text": "Ú ĐÓ Ị ƯỞ À Ư ẬY Ũ À Á UI",
+    "speaker_id": "VIVOSDEV18",
+    "split": "test",
+    "duration": 3.155625
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV18\\VIVOSDEV18_257.wav",
+    "text": "ỒI E IẾ IỂ À Ư Ả ĐẾ Ừ IỌ ĐE ƠI",
+    "speaker_id": "VIVOSDEV18",
+    "split": "test",
+    "duration": 3.499375
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV18\\VIVOSDEV18_259.wav",
+    "text": "UỐ Ô Ậ AY A Ó ẤY Ì ẢI ỬA UẬ",
+    "speaker_id": "VIVOSDEV18",
+    "split": "test",
+    "duration": 3.436875
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV18\\VIVOSDEV18_263.wav",
+    "text": "UẢ Ý À ƯỚ Ề IAO Ô Ậ ẢI ĐÔ Ị",
+    "speaker_id": "VIVOSDEV18",
+    "split": "test",
+    "duration": 3.374375
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV18\\VIVOSDEV18_265.wav",
+    "text": "AU ĐÓ Ọ Â A A ƠI ỒI ĐÁ Ắ ĐỨA É",
+    "speaker_id": "VIVOSDEV18",
+    "split": "test",
+    "duration": 3.999375
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV18\\VIVOSDEV18_272.wav",
+    "text": "A Ơ ẢO ÔI Ề ƯỚ Ò A ĐI EO Ô ÁI",
+    "speaker_id": "VIVOSDEV18",
+    "split": "test",
+    "duration": 3.124375
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV18\\VIVOSDEV18_273.wav",
+    "text": "ƯỚ Ế Ạ Ầ Ì IỂU Ô I UY OẠ U ĐẤ",
+    "speaker_id": "VIVOSDEV18",
+    "split": "test",
+    "duration": 3.343125
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV18\\VIVOSDEV18_279.wav",
+    "text": "Ữ Ả Ẩ IÚ Ở Ự À A Ỡ Ấ Ố Ả YẾ I",
+    "speaker_id": "VIVOSDEV18",
+    "split": "test",
+    "duration": 4.093125
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV18\\VIVOSDEV18_280.wav",
+    "text": "Ó Ự Ả Ữ À IỂU IỄ OẠ Ụ Ê ẦU ỜI",
+    "speaker_id": "VIVOSDEV18",
+    "split": "test",
+    "duration": 2.936875
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV18\\VIVOSDEV18_282.wav",
+    "text": "Ư UỐI Ù Ẳ AI ỊU ỔI ÁI Í A UI ỦA ÔI",
+    "speaker_id": "VIVOSDEV18",
+    "split": "test",
+    "duration": 3.249375
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV18\\VIVOSDEV18_293.wav",
+    "text": "IỂ A U Â ÀY Ô A ĐÃ Ắ IỮ ỚI",
+    "speaker_id": "VIVOSDEV18",
+    "split": "test",
+    "duration": 2.468125
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV18\\VIVOSDEV18_297.wav",
+    "text": "OA ƯỢ Ẫ Ở ĐỎ ỜI O IẾ E AO Á Ô UÔI",
+    "speaker_id": "VIVOSDEV18",
+    "split": "test",
+    "duration": 3.280625
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV19\\VIVOSDEV19_008.wav",
+    "text": "Ừ ĐÓ ẠI A ĐÀ ÀO IỀU Ị Ả ĐÁ IẾ",
+    "speaker_id": "VIVOSDEV19",
+    "split": "test",
+    "duration": 4.811875
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV19\\VIVOSDEV19_011.wav",
+    "text": "O A ÃY IỂU O E E ƯƠ Ớ À YÊU A IỀU",
+    "speaker_id": "VIVOSDEV19",
+    "split": "test",
+    "duration": 4.124375
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV19\\VIVOSDEV19_020.wav",
+    "text": "Ê Á UỘ Ẹ Ỏ Ấ À Ự IỆ Ỏ Ấ",
+    "speaker_id": "VIVOSDEV19",
+    "split": "test",
+    "duration": 4.686875
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV19\\VIVOSDEV19_022.wav",
+    "text": "É Ở ÍA Ạ ÀY Ì ĐÚ À Ấ Ò ỚI O À UỒ",
+    "speaker_id": "VIVOSDEV19",
+    "split": "test",
+    "duration": 4.936875
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV19\\VIVOSDEV19_024.wav",
+    "text": "UY IÊ ÔI Ĩ ẬU A Ứ ĐÁ ỚI Ứ Ô ĐỊ",
+    "speaker_id": "VIVOSDEV19",
+    "split": "test",
+    "duration": 3.905625
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV19\\VIVOSDEV19_027.wav",
+    "text": "Ữ IẾ Ạ ÀY ƯỜ ẤY Õ I ƯƠ Ậ ƯƠ",
+    "speaker_id": "VIVOSDEV19",
+    "split": "test",
+    "duration": 3.999375
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV19\\VIVOSDEV19_029.wav",
+    "text": "IỎI Ì Á Ì ĐẺ A Ô UÔI Ì AI UÔI",
+    "speaker_id": "VIVOSDEV19",
+    "split": "test",
+    "duration": 2.968125
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV19\\VIVOSDEV19_030.wav",
+    "text": "Ù A ỒI ĐẮ UỘ ƯỜ O Ó À Ù Ú",
+    "speaker_id": "VIVOSDEV19",
+    "split": "test",
+    "duration": 3.593125
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV19\\VIVOSDEV19_045.wav",
+    "text": "Ô ÓI Ú ÔI I Ọ Ẽ Ó Ữ I Ứ Ố À",
+    "speaker_id": "VIVOSDEV19",
+    "split": "test",
+    "duration": 4.186875
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV19\\VIVOSDEV19_056.wav",
+    "text": "Ề UYÊ Ắ ÀO Ọ À I IÊ ẢI ĐÓ Ọ Í",
+    "speaker_id": "VIVOSDEV19",
+    "split": "test",
+    "duration": 4.061875
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV19\\VIVOSDEV19_061.wav",
+    "text": "ĐỂ Ữ Ó Ă À ÂU UẪ Ầ Ầ Ẽ Ị ĐẨY UI",
+    "speaker_id": "VIVOSDEV19",
+    "split": "test",
+    "duration": 4.061875
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV19\\VIVOSDEV19_064.wav",
+    "text": "Ó Ặ Ò Ó Ể O Ì Ạ ỐI OẠ Ị I Ặ ÂY A",
+    "speaker_id": "VIVOSDEV19",
+    "split": "test",
+    "duration": 6.624375
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV19\\VIVOSDEV19_071.wav",
+    "text": "O Ắ Ạ Ị ƯỜ Ậ À Ư Ộ Ỗ ÁY ẦU Ử",
+    "speaker_id": "VIVOSDEV19",
+    "split": "test",
+    "duration": 6.061875
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV19\\VIVOSDEV19_072.wav",
+    "text": "ƯƠ Ì Ọ Ổ A IÊ ÂU Á ỦA Ậ Ả",
+    "speaker_id": "VIVOSDEV19",
+    "split": "test",
+    "duration": 3.374375
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV19\\VIVOSDEV19_083.wav",
+    "text": "Ư ỒI ÁI Ì ỚI À O Ứ Ắ ÍU Ô Ứ A ĐƯỢ",
+    "speaker_id": "VIVOSDEV19",
+    "split": "test",
+    "duration": 5.749375
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV19\\VIVOSDEV19_091.wav",
+    "text": "Ố ĐƠ Ị A IA ỘI Ợ IỆ À Ă ĐÁ Ể UA Á Ă",
+    "speaker_id": "VIVOSDEV19",
+    "split": "test",
+    "duration": 5.780625
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV19\\VIVOSDEV19_094.wav",
+    "text": "A IẾ ỦA Ọ Ơ Ẳ ỜI UỔI Ẻ ỦA ÔI",
+    "speaker_id": "VIVOSDEV19",
+    "split": "test",
+    "duration": 3.936875
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV19\\VIVOSDEV19_111.wav",
+    "text": "UYẾ ĐIỂ Ớ ỦA Ú A À ƯA Ó Â Ủ Ậ Ự",
+    "speaker_id": "VIVOSDEV19",
+    "split": "test",
+    "duration": 4.436875
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV19\\VIVOSDEV19_133.wav",
+    "text": "E Ó UY Ĩ Ê Ề IỆ A Ự ỘI Ợ OA Ọ Ô",
+    "speaker_id": "VIVOSDEV19",
+    "split": "test",
+    "duration": 4.311875
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV19\\VIVOSDEV19_142.wav",
+    "text": "Ọ Ỉ Í Ữ Ô Ì Ạ ẠO ẠO Ự À IẾ A IỀ ÔI",
+    "speaker_id": "VIVOSDEV19",
+    "split": "test",
+    "duration": 4.749375
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV19\\VIVOSDEV19_158.wav",
+    "text": "Ữ ƯỜI Ẻ ẤY Ậ ĐÁ Ê Á ĐÁ Ê Á",
+    "speaker_id": "VIVOSDEV19",
+    "split": "test",
+    "duration": 4.811875
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV19\\VIVOSDEV19_161.wav",
+    "text": "Ô ƯỜ Á Ỷ UẬ ẾU Ó ƯỜ A À ÀO UỐI UẦ",
+    "speaker_id": "VIVOSDEV19",
+    "split": "test",
+    "duration": 5.749375
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV19\\VIVOSDEV19_163.wav",
+    "text": "ĐIỀU Ạ À ÔI Ẫ Ô Ừ Ỏ Ý ĐỊ Ở À U Ĩ",
+    "speaker_id": "VIVOSDEV19",
+    "split": "test",
+    "duration": 4.374375
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV19\\VIVOSDEV19_167.wav",
+    "text": "Á UI ĐỊ ỦA Á UẬ Ô Ể ĐƯỢ A À EO IỂU ĐÁ É",
+    "speaker_id": "VIVOSDEV19",
+    "split": "test",
+    "duration": 5.749375
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV19\\VIVOSDEV19_169.wav",
+    "text": "A UÁ ĐÃ À Ầ Ứ A A À ỒI ĐẤY",
+    "speaker_id": "VIVOSDEV19",
+    "split": "test",
+    "duration": 4.061875
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV19\\VIVOSDEV19_179.wav",
+    "text": "ĐỖ ĐỨ UẦ UYÊ Ế OÁ ƯỞ Ô Y IẾ Ị ĐẦU Ư",
+    "speaker_id": "VIVOSDEV19",
+    "split": "test",
+    "duration": 4.405625
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV19\\VIVOSDEV19_196.wav",
+    "text": "ƯỜI A AU ĐÓ ĐƯỢ É ẦU ÂY Ê ÀY Ư Ô IẾ À",
+    "speaker_id": "VIVOSDEV19",
+    "split": "test",
+    "duration": 5.718125
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV19\\VIVOSDEV19_218.wav",
+    "text": "ÓI Á Á ÁI ĐƯỢ ỦA ÂU Á À ÁI Ấ ỦA ÂU I",
+    "speaker_id": "VIVOSDEV19",
+    "split": "test",
+    "duration": 5.311875
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV19\\VIVOSDEV19_222.wav",
+    "text": "Ắ Ự IÊ OA Ê Í Ụ Ộ ÁI Y UẬ Ạ UỐ À",
+    "speaker_id": "VIVOSDEV19",
+    "split": "test",
+    "duration": 6.061875
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV19\\VIVOSDEV19_227.wav",
+    "text": "Ừ ĐẤY Ô À Ô Ả ÂU Ắ Â Ạ ỦA UYỄ IẾ",
+    "speaker_id": "VIVOSDEV19",
+    "split": "test",
+    "duration": 6.780625
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV19\\VIVOSDEV19_244.wav",
+    "text": "E ÃY Ì Á IẾ Ậ ĐỂ ÀY Ỏ ỚI Ẹ",
+    "speaker_id": "VIVOSDEV19",
+    "split": "test",
+    "duration": 4.186875
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV19\\VIVOSDEV19_245.wav",
+    "text": "Ú ĐÓ Ạ Ẹ E Ắ Ẽ I Ủ Ấ IỀU Ầ Ô AY",
+    "speaker_id": "VIVOSDEV19",
+    "split": "test",
+    "duration": 4.374375
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV19\\VIVOSDEV19_246.wav",
+    "text": "Ợ Ỡ Ó Ậ Ế A Ê AY ĐỔI Á IẾ Ậ",
+    "speaker_id": "VIVOSDEV19",
+    "split": "test",
+    "duration": 5.093125
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV19\\VIVOSDEV19_249.wav",
+    "text": "ĐÂY ĐƯỢ E À AI IỄ À Ô Ấ ỦA ƯƠ Ừ ƯỚ ĐẾ AY",
+    "speaker_id": "VIVOSDEV19",
+    "split": "test",
+    "duration": 4.499375
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV19\\VIVOSDEV19_257.wav",
+    "text": "Ư ẾU Ỉ ÓI ÁI IỎI Ô ÔI Ì Ậ ƯA ĐỦ Ề Ú Ư",
+    "speaker_id": "VIVOSDEV19",
+    "split": "test",
+    "duration": 5.280625
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV19\\VIVOSDEV19_259.wav",
+    "text": "Í Ự Ơ ỚI Ấ ĐỀ IÊ UA ĐẾ IỀU ÀO",
+    "speaker_id": "VIVOSDEV19",
+    "split": "test",
+    "duration": 4.186875
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV19\\VIVOSDEV19_262.wav",
+    "text": "ĐỂ ỒI Ú A AO Á ÃI O Ò UÂ ỒI Â IA",
+    "speaker_id": "VIVOSDEV19",
+    "split": "test",
+    "duration": 4.655625
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV19\\VIVOSDEV19_266.wav",
+    "text": "Ấ ĐỀ ẢY I Ừ ÁI ÂU ỎI I U ẤY",
+    "speaker_id": "VIVOSDEV19",
+    "split": "test",
+    "duration": 3.999375
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV19\\VIVOSDEV19_274.wav",
+    "text": "Ị Ê ĐI Á Á Ĩ À Ọ ƯƠ Á ỪA AI IỆU UẢ",
+    "speaker_id": "VIVOSDEV19",
+    "split": "test",
+    "duration": 3.655625
+  },
+  {
+    "audio_path": "D:/Truong/data/raw/vivos/vivos\\test\\waves\\VIVOSDEV19\\VIVOSDEV19_279.wav",
+    "text": "Ợ Ộ UỘ IẾ Ố A Ũ Ẫ ƯA ÀO ĐÂU",
+    "speaker_id": "VIVOSDEV19",
+    "split": "test",
+    "duration": 3.624375
+  }
+]

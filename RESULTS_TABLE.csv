@@ -1,0 +1,7 @@
+Version,Hypothesis,Change,Paper WER (estimated),Experimental WER,Improvement vs Baseline,Improvement vs Paper,Conclusion
+Baseline,-,-,~0.3-0.5 (VN),0.6439,-,-0.14 to +0.34,-
+V1,SpecAugment,Time masking,-,0.5727,+0.0711 (11.0%),-,Keep
+V2,Cosine LR,Cosine schedule,-,0.5461,+0.0978 (15.2%),-,Keep
+V3,Larger model,Whisper Base,-,0.6759,-0.0321 (-5.0%),-,Discard
+Zero-shot,Pretrained Whisper,~0.3-0.5 (VN),1.0102,-,-0.51 to -0.71,-
+Fine-tuned,Baseline (Whisper Small),-,0.5784,-,-,-

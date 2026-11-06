@@ -1,0 +1,7 @@
+{
+  "wer": 0.5784,
+  "cer": 0.3475,
+  "num_samples": 760,
+  "zero_shot_wer": 1.0102,
+  "zero_shot_cer": 1.4318
+}
